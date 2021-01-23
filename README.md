@@ -8,8 +8,8 @@
 # فریبا محمدی پور
 - [PNU_3991_AR](https://github.com/fmohammadipour/PNU_3991_AR)
 - [Resume](https://fmohammadipour.github.io/) 
-- [SOP](https://github.com/fmohammadipour/PNU_3991_AR/tree/main/SOP)
-- [Certificates](https://fmohammadipour.github.io/Certificates/)
+- [SOP](https://fmohammadipour.github.io/#SOP)
+- [Certificates](https://github.com/fmohammadipour/PNU_3991_AR/tree/main/_Certificate)
 - [GitHub](https://github.com/fmohammadipour)
 
 ------------------

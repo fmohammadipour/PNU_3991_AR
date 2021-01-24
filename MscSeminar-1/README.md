@@ -2,6 +2,6 @@
 عوامل موثر بر پذیرش متدولوژی چابک توسط توسعه دهندگان
 
 # منابع مفید و اقدامات انجام گرفته در ارتباط با آنها
-- [دوره مناسب برای آشنایی با متدولوژی چابک ](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization)
+- [دوره آشنایی با متدولوژی چابک - لینکدین ](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization)
 - در همین بخش در فولدری تحت نام دوره امکان دانلود ویدئوها و دانلود زیرنویس انگلیسی و فارسی هر بخش که توسط اینجانب ایجاد شده وجود دارد
 

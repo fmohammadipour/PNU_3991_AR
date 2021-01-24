@@ -1,0 +1,248 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.020 --> 00:00:04.020
+- If your organization hasn't already adopted
+
+2
+00:00:04.020 --> 00:00:05.080
+some Agile practices,
+
+3
+00:00:05.080 --> 00:00:07.050
+I'm sure you've been hearing
+
+4
+00:00:07.050 --> 00:00:10.060
+about the benefits of moving in this direction.
+
+5
+00:00:10.060 --> 00:00:12.090
+There are several business imperatives
+
+6
+00:00:12.090 --> 00:00:15.000
+facing organizations today
+
+7
+00:00:15.000 --> 00:00:18.060
+and Agile methods can help you attain them.
+
+8
+00:00:18.060 --> 00:00:21.010
+The most common driver that I hear about
+
+9
+00:00:21.010 --> 00:00:24.050
+is the need to get software out the door more quickly.
+
+10
+00:00:24.050 --> 00:00:27.000
+We live in an on-demand world.
+
+11
+00:00:27.000 --> 00:00:29.020
+The rise of disruptive businesses
+
+12
+00:00:29.020 --> 00:00:31.060
+and the immediacy of social media
+
+13
+00:00:31.060 --> 00:00:34.030
+have raised customer expectations.
+
+14
+00:00:34.030 --> 00:00:38.030
+They demand to get what they want now.
+
+15
+00:00:38.030 --> 00:00:40.060
+The latest data from the VersionOne
+
+16
+00:00:40.060 --> 00:00:42.030
+Annual State of Agile Report
+
+17
+00:00:42.030 --> 00:00:47.050
+reveals that 75% of organizations adopting Agile do so
+
+18
+00:00:47.050 --> 00:00:51.010
+because they want to accelerate their software delivery.
+
+19
+00:00:51.010 --> 00:00:52.040
+By another name,
+
+20
+00:00:52.040 --> 00:00:56.000
+this is something your organization's time-to-market.
+
+21
+00:00:56.000 --> 00:00:59.000
+Of course you're wondering if that actually happens.
+
+22
+00:00:59.000 --> 00:01:03.010
+Well, the same dataset reveals that 62% of companies
+
+23
+00:01:03.010 --> 00:01:07.030
+actually did see improvement in their software delivery
+
+24
+00:01:07.030 --> 00:01:09.040
+and time-to-market.
+
+25
+00:01:09.040 --> 00:01:12.020
+Another driver facing businesses today
+
+26
+00:01:12.020 --> 00:01:14.090
+is related to the one we just talked about.
+
+27
+00:01:14.090 --> 00:01:17.050
+Given the lightning quick speed of the market
+
+28
+00:01:17.050 --> 00:01:19.000
+and customer demands,
+
+29
+00:01:19.000 --> 00:01:22.000
+organizations also need to implement processes
+
+30
+00:01:22.000 --> 00:01:24.050
+that enable them to quickly respond
+
+31
+00:01:24.050 --> 00:01:26.070
+to changing requirements.
+
+32
+00:01:26.070 --> 00:01:28.080
+When companies shift to Agile,
+
+33
+00:01:28.080 --> 00:01:31.050
+64% of them say they're doing it
+
+34
+00:01:31.050 --> 00:01:35.040
+because they need a new way to manage changing priorities.
+
+35
+00:01:35.040 --> 00:01:41.010
+When they do move to Agile, 71% see benefit in this area.
+
+36
+00:01:41.010 --> 00:01:42.070
+What's interesting here
+
+37
+00:01:42.070 --> 00:01:45.040
+is the implied impact across their companies
+
+38
+00:01:45.040 --> 00:01:48.080
+that leads to another benefit of Agile methods.
+
+39
+00:01:48.080 --> 00:01:52.060
+In order to know what those changing priorities are,
+
+40
+00:01:52.060 --> 00:01:54.060
+you need to create better alignment
+
+41
+00:01:54.060 --> 00:01:57.020
+between IT and the business people
+
+42
+00:01:57.020 --> 00:02:00.000
+who connect you to your customers.
+
+43
+00:02:00.000 --> 00:02:03.090
+While only 49% of companies listed this as their goal
+
+44
+00:02:03.090 --> 00:02:05.070
+in their Agile adoption,
+
+45
+00:02:05.070 --> 00:02:09.090
+a full 65% saw improvement in this area.
+
+46
+00:02:09.090 --> 00:02:11.060
+Improvement in this alignment
+
+47
+00:02:11.060 --> 00:02:14.040
+can give you other benefits too.
+
+48
+00:02:14.040 --> 00:02:16.020
+When there's closer alignment,
+
+49
+00:02:16.020 --> 00:02:19.060
+all interested parties will have better visibility
+
+50
+00:02:19.060 --> 00:02:22.050
+into the progress of their projects.
+
+51
+00:02:22.050 --> 00:02:25.070
+In fact, no one surveyed listed this
+
+52
+00:02:25.070 --> 00:02:27.090
+as a driver for their adoption.
+
+53
+00:02:27.090 --> 00:02:33.040
+At the same time, 66% of companies did see this benefit.
+
+54
+00:02:33.040 --> 00:02:37.030
+Oh, and better visibility generally increases quality
+
+55
+00:02:37.030 --> 00:02:41.060
+since in short cycles Agile allows your stakeholders
+
+56
+00:02:41.060 --> 00:02:44.000
+to buy in to what's being delivered.
+
+57
+00:02:44.000 --> 00:02:46.020
+So, here's the question.
+
+58
+00:02:46.020 --> 00:02:50.010
+As an IT leader, are you being asked to deliver more
+
+59
+00:02:50.010 --> 00:02:53.040
+while exactly matching shifting requirements
+
+60
+00:02:53.040 --> 00:02:57.070
+and bringing your customers along with you while you do it?
+
+61
+00:02:57.070 --> 00:03:02.000
+If you answered yes, then Agile can help you get there.
+

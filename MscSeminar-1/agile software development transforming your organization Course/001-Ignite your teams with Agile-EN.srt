@@ -1,0 +1,80 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.000 --> 00:00:05.010
+- Agile transformations are happening everywhere these days.
+
+2
+00:00:05.010 --> 00:00:09.080
+The problem is that some are more successful than others.
+
+3
+00:00:09.080 --> 00:00:13.030
+In this course you'll learn the essential ingredients
+
+4
+00:00:13.030 --> 00:00:15.080
+to successful agile transformations,
+
+5
+00:00:15.080 --> 00:00:20.020
+and you'll be able to apply them in your organization.
+
+6
+00:00:20.020 --> 00:00:22.080
+We'll use case studies to learn how
+
+7
+00:00:22.080 --> 00:00:25.050
+successfully transformed organizations
+
+8
+00:00:25.050 --> 00:00:27.050
+used these techniques,
+
+9
+00:00:27.050 --> 00:00:30.010
+and we'll also look at the pros and cons
+
+10
+00:00:30.010 --> 00:00:32.040
+of the scaling frameworks.
+
+11
+00:00:32.040 --> 00:00:34.080
+If you're starting a transformation journey,
+
+12
+00:00:34.080 --> 00:00:39.020
+these key steps will help you succeed in your efforts.
+
+13
+00:00:39.020 --> 00:00:41.020
+Hi, I'm Kelley O'Connell.
+
+14
+00:00:41.020 --> 00:00:44.050
+I'm an agile coach and transformation strategist.
+
+15
+00:00:44.050 --> 00:00:47.030
+I have been leading teams for more than 20 years,
+
+16
+00:00:47.030 --> 00:00:50.060
+and I've been involved with transforming organizations
+
+17
+00:00:50.060 --> 00:00:52.000
+for 10 years.
+
+18
+00:00:52.000 --> 00:00:55.030
+Please join me as we explore how you
+
+19
+00:00:55.030 --> 00:00:59.000
+can successfully transform your organization.
+

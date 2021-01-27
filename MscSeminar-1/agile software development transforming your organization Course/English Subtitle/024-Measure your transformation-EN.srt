@@ -1,0 +1,276 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.010 --> 00:00:04.000
+- When you launched the organization on the path
+
+2
+00:00:04.000 --> 00:00:08.000
+of IT transformation, you had some goals to accomplish.
+
+3
+00:00:08.000 --> 00:00:10.040
+These goals are a great place to start
+
+4
+00:00:10.040 --> 00:00:13.010
+when deciding what to measure.
+
+5
+00:00:13.010 --> 00:00:15.060
+In my experience, the most common goals
+
+6
+00:00:15.060 --> 00:00:18.030
+for agile implementations are faster delivery,
+
+7
+00:00:18.030 --> 00:00:21.060
+or speed, and higher quality.
+
+8
+00:00:21.060 --> 00:00:24.000
+Let's start by looking at faster delivery.
+
+9
+00:00:24.000 --> 00:00:27.000
+When measuring speed, the easiest way to measure
+
+10
+00:00:27.000 --> 00:00:31.060
+is simply capturing the number of deliveries each month.
+
+11
+00:00:31.060 --> 00:00:34.040
+This is an external measure that helps you understand
+
+12
+00:00:34.040 --> 00:00:36.020
+how your transformation
+
+13
+00:00:36.020 --> 00:00:41.010
+is directly impacting your external customers.
+
+14
+00:00:41.010 --> 00:00:43.010
+An additional metric to start tracking
+
+15
+00:00:43.010 --> 00:00:45.030
+is lead time for the work being done.
+
+16
+00:00:45.030 --> 00:00:48.010
+Tracking lead time, or the duration
+
+17
+00:00:48.010 --> 00:00:50.000
+between the request and the delivery,
+
+18
+00:00:50.000 --> 00:00:52.050
+is an internal speed metric.
+
+19
+00:00:52.050 --> 00:00:54.080
+This can provide valuable insight
+
+20
+00:00:54.080 --> 00:00:58.000
+into the efficiencies being created in the organization
+
+21
+00:00:58.000 --> 00:01:00.090
+as you implement agility.
+
+22
+00:01:00.090 --> 00:01:04.010
+In terms of quality, the most direct measure
+
+23
+00:01:04.010 --> 00:01:06.050
+is defect tracking.
+
+24
+00:01:06.050 --> 00:01:08.080
+I recommend teams track their own defects,
+
+25
+00:01:08.080 --> 00:01:12.030
+and these can then be combined across teams
+
+26
+00:01:12.030 --> 00:01:14.030
+to provide a broader view.
+
+27
+00:01:14.030 --> 00:01:17.000
+When tracking defects, I find it useful
+
+28
+00:01:17.000 --> 00:01:21.010
+to know how many defects the team found during development.
+
+29
+00:01:21.010 --> 00:01:23.070
+Most importantly, it's best to track
+
+30
+00:01:23.070 --> 00:01:26.070
+the number of defects found after the release
+
+31
+00:01:26.070 --> 00:01:28.040
+or found by customers.
+
+32
+00:01:28.040 --> 00:01:31.040
+These defect trends can provide visibility
+
+33
+00:01:31.040 --> 00:01:34.030
+on how your transformation is improving
+
+34
+00:01:34.030 --> 00:01:37.070
+the end product customers experience.
+
+35
+00:01:37.070 --> 00:01:40.090
+Another area to track during your transformation
+
+36
+00:01:40.090 --> 00:01:42.050
+is the cultural aspect.
+
+37
+00:01:42.050 --> 00:01:46.060
+Agile can't take hold unless your culture is changing too.
+
+38
+00:01:46.060 --> 00:01:49.030
+Agile relies heavily on collaboration
+
+39
+00:01:49.030 --> 00:01:51.000
+and team empowerment.
+
+40
+00:01:51.000 --> 00:01:53.070
+A simple pulse survey to your IT staff
+
+41
+00:01:53.070 --> 00:01:57.000
+can provide transparency on both fronts.
+
+42
+00:01:57.000 --> 00:02:00.020
+For example, you can ask simple questions like:
+
+43
+00:02:00.020 --> 00:02:02.050
+On a scale from one to 10
+
+44
+00:02:02.050 --> 00:02:04.070
+where one is low and 10 is high,
+
+45
+00:02:04.070 --> 00:02:08.050
+how healthy is collaboration within your team?
+
+46
+00:02:08.050 --> 00:02:10.040
+This question can tell you
+
+47
+00:02:10.040 --> 00:02:12.020
+how well the transformation is working
+
+48
+00:02:12.020 --> 00:02:13.060
+at the team level.
+
+49
+00:02:13.060 --> 00:02:16.030
+On a scale from one to 10
+
+50
+00:02:16.030 --> 00:02:18.040
+where one is low and 10 is high,
+
+51
+00:02:18.040 --> 00:02:22.010
+how healthy is collaboration across teams?
+
+52
+00:02:22.010 --> 00:02:24.030
+This question provides visibility
+
+53
+00:02:24.030 --> 00:02:26.050
+into the health of the system
+
+54
+00:02:26.050 --> 00:02:29.070
+or the team of teams.
+
+55
+00:02:29.070 --> 00:02:31.030
+On a scale from one to 10
+
+56
+00:02:31.030 --> 00:02:33.090
+where one is low and 10 is high,
+
+57
+00:02:33.090 --> 00:02:36.040
+how autonomous is your team?
+
+58
+00:02:36.040 --> 00:02:39.000
+This question really provides information
+
+59
+00:02:39.000 --> 00:02:41.030
+on where the transformation stands
+
+60
+00:02:41.030 --> 00:02:44.030
+in terms of empowering teams.
+
+61
+00:02:44.030 --> 00:02:47.050
+This is the foundation for high performance.
+
+62
+00:02:47.050 --> 00:02:51.020
+In all cases, make sure you baseline measurements
+
+63
+00:02:51.020 --> 00:02:53.080
+before your transformation begins.
+
+64
+00:02:53.080 --> 00:02:56.040
+It's much easier to tell the story
+
+65
+00:02:56.040 --> 00:03:00.060
+of your agile success when you know where you started.
+
+66
+00:03:00.060 --> 00:03:03.000
+When you choose the right metrics,
+
+67
+00:03:03.000 --> 00:03:06.040
+you'll be able to keep your transformation on track
+
+68
+00:03:06.040 --> 00:03:10.000
+and share the good news.
+

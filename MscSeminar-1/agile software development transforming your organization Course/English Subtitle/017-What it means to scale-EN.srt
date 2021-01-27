@@ -1,0 +1,172 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:00.070 --> 00:00:03.010
+- As organizations transition to adopting
+
+2
+00:00:03.010 --> 00:00:06.050
+more agile frameworks, they run into challenges.
+
+3
+00:00:06.050 --> 00:00:09.030
+The concept of scaling agile comes from the need
+
+4
+00:00:09.030 --> 00:00:11.020
+to resolve these issues.
+
+5
+00:00:11.020 --> 00:00:13.090
+Scaling is simply a shorthand way of saying
+
+6
+00:00:13.090 --> 00:00:18.030
+you're expanding the footprint of agile in the organization.
+
+7
+00:00:18.030 --> 00:00:20.050
+Think of scaling in terms of which teams
+
+8
+00:00:20.050 --> 00:00:24.010
+or groups of teams have adopted the agile mindset
+
+9
+00:00:24.010 --> 00:00:25.090
+and practices.
+
+10
+00:00:25.090 --> 00:00:29.000
+For example, the simplest way to scale agile
+
+11
+00:00:29.000 --> 00:00:31.040
+is for multiple teams to adopt agile.
+
+12
+00:00:31.040 --> 00:00:34.040
+Usually, this is done within a product.
+
+13
+00:00:34.040 --> 00:00:36.060
+For example, if you're working at Amazon,
+
+14
+00:00:36.060 --> 00:00:38.060
+you may have more than one team
+
+15
+00:00:38.060 --> 00:00:42.010
+working on the private wishlist feature.
+
+16
+00:00:42.010 --> 00:00:44.090
+When all the teams working on private wishlists
+
+17
+00:00:44.090 --> 00:00:48.070
+are using agile, you've scaled agile to that product.
+
+18
+00:00:48.070 --> 00:00:51.030
+Then, you may see how well this is working
+
+19
+00:00:51.030 --> 00:00:54.080
+and decide that all teams on the list platform
+
+20
+00:00:54.080 --> 00:00:57.050
+should use agile practices too.
+
+21
+00:00:57.050 --> 00:00:59.090
+This is scaling the platform.
+
+22
+00:00:59.090 --> 00:01:04.020
+Both of these examples are focused on product delivery.
+
+23
+00:01:04.020 --> 00:01:07.010
+You can also scale or expand your agile
+
+24
+00:01:07.010 --> 00:01:09.020
+at the organizational level.
+
+25
+00:01:09.020 --> 00:01:11.090
+For example, if I were leading an IT department,
+
+26
+00:01:11.090 --> 00:01:15.070
+I could choose to use agile throughout my whole area.
+
+27
+00:01:15.070 --> 00:01:18.050
+This is organizational scaling.
+
+28
+00:01:18.050 --> 00:01:20.090
+All the teams in my area would transform
+
+29
+00:01:20.090 --> 00:01:23.010
+to the agile mindset and frameworks.
+
+30
+00:01:23.010 --> 00:01:25.050
+I could then help my peer leaders
+
+31
+00:01:25.050 --> 00:01:27.060
+to see the benefit of agile
+
+32
+00:01:27.060 --> 00:01:31.070
+and influence them to scale their departments too.
+
+33
+00:01:31.070 --> 00:01:34.060
+When those other areas start to adopt agile,
+
+34
+00:01:34.060 --> 00:01:37.000
+this is enterprise scaling.
+
+35
+00:01:37.000 --> 00:01:39.070
+It means that the agile mindset and practices
+
+36
+00:01:39.070 --> 00:01:42.070
+are used everywhere in my company.
+
+37
+00:01:42.070 --> 00:01:44.040
+It helps to understand that scaling
+
+38
+00:01:44.040 --> 00:01:46.020
+isn't a single thing.
+
+39
+00:01:46.020 --> 00:01:49.010
+It has many facets, and you can choose how
+
+40
+00:01:49.010 --> 00:01:51.030
+and where to start.
+
+41
+00:01:51.030 --> 00:01:54.090
+When you know this, you'll make the right decision
+
+42
+00:01:54.090 --> 00:01:57.000
+for your organization.
+

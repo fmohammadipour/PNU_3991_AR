@@ -1,0 +1,272 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.020 --> 00:00:03.090
+- While you're transforming your organization,
+
+2
+00:00:03.090 --> 00:00:07.040
+it's not enough to engage your internal customers.
+
+3
+00:00:07.040 --> 00:00:10.050
+You also need to leverage your external customers
+
+4
+00:00:10.050 --> 00:00:14.020
+to ensure you're building the right products.
+
+5
+00:00:14.020 --> 00:00:16.040
+This is something the IT department
+
+6
+00:00:16.040 --> 00:00:19.020
+can rarely manage on their own.
+
+7
+00:00:19.020 --> 00:00:22.030
+This calls for additional deep partnership
+
+8
+00:00:22.030 --> 00:00:26.020
+with your product development and marketing departments.
+
+9
+00:00:26.020 --> 00:00:29.030
+Start by understanding how external customers
+
+10
+00:00:29.030 --> 00:00:31.050
+are currently being engaged.
+
+11
+00:00:31.050 --> 00:00:34.070
+While there's no standard playbook across all industries
+
+12
+00:00:34.070 --> 00:00:36.030
+for customer engagement,
+
+13
+00:00:36.030 --> 00:00:39.060
+some elements are needed universally.
+
+14
+00:00:39.060 --> 00:00:42.010
+Start by understanding your company's current strategies
+
+15
+00:00:42.010 --> 00:00:45.000
+in the areas of opportunity assessment
+
+16
+00:00:45.000 --> 00:00:48.010
+and solution exploration.
+
+17
+00:00:48.010 --> 00:00:50.090
+In the area of opportunity assessment,
+
+18
+00:00:50.090 --> 00:00:52.080
+it will be helpful for IT
+
+19
+00:00:52.080 --> 00:00:55.060
+to understand the process being used
+
+20
+00:00:55.060 --> 00:00:59.010
+to identify new products or product enhancements.
+
+21
+00:00:59.010 --> 00:01:00.080
+Your goal is to understand
+
+22
+00:01:00.080 --> 00:01:04.050
+how external customers are being leveraged.
+
+23
+00:01:04.050 --> 00:01:08.000
+To maintain market viability, it's critical
+
+24
+00:01:08.000 --> 00:01:11.040
+that your customers are part of this process.
+
+25
+00:01:11.040 --> 00:01:13.040
+If it's not already happening,
+
+26
+00:01:13.040 --> 00:01:17.000
+use your influence to get it started.
+
+27
+00:01:17.000 --> 00:01:18.080
+Some techniques you can suggest
+
+28
+00:01:18.080 --> 00:01:20.040
+to your product partners are things
+
+29
+00:01:20.040 --> 00:01:22.090
+like social media engagement,
+
+30
+00:01:22.090 --> 00:01:26.020
+webinars to help your customers use your products,
+
+31
+00:01:26.020 --> 00:01:29.070
+and ask for volunteers to help solve some problem
+
+32
+00:01:29.070 --> 00:01:31.090
+or design a new product.
+
+33
+00:01:31.090 --> 00:01:34.070
+With this information and a close partnership
+
+34
+00:01:34.070 --> 00:01:38.070
+with your product team, IT can help generate ideas
+
+35
+00:01:38.070 --> 00:01:43.000
+and have early visibility into future projects.
+
+36
+00:01:43.000 --> 00:01:45.060
+Once opportunities are identified,
+
+37
+00:01:45.060 --> 00:01:48.000
+you then need to ensure IT is part
+
+38
+00:01:48.000 --> 00:01:51.030
+of solution exploration as well.
+
+39
+00:01:51.030 --> 00:01:54.080
+In many cases, the results of opportunity assessment
+
+40
+00:01:54.080 --> 00:01:57.020
+become projects immediately.
+
+41
+00:01:57.020 --> 00:02:00.040
+When this happens, all the risk shifts
+
+42
+00:02:00.040 --> 00:02:03.020
+to the teams doing the work.
+
+43
+00:02:03.020 --> 00:02:07.000
+Instead, use your partnership with your product team
+
+44
+00:02:07.000 --> 00:02:12.000
+to insert a solution exploration step into the process.
+
+45
+00:02:12.000 --> 00:02:16.000
+In this step, you and the product area will form a team
+
+46
+00:02:16.000 --> 00:02:18.030
+and set a short time box.
+
+47
+00:02:18.030 --> 00:02:21.060
+The goal is to experiment with prototypes
+
+48
+00:02:21.060 --> 00:02:24.060
+that will prove or disprove the feasibility
+
+49
+00:02:24.060 --> 00:02:27.010
+of the opportunity idea.
+
+50
+00:02:27.010 --> 00:02:30.060
+Make sure you have customer feedback on the prototypes.
+
+51
+00:02:30.060 --> 00:02:34.050
+This can ensure value in the market as well.
+
+52
+00:02:34.050 --> 00:02:36.010
+By taking this step,
+
+53
+00:02:36.010 --> 00:02:39.060
+you now have validated data to work with.
+
+54
+00:02:39.060 --> 00:02:41.080
+When the new idea for this new product
+
+55
+00:02:41.080 --> 00:02:44.020
+comes before the project approval team,
+
+56
+00:02:44.020 --> 00:02:45.090
+it will be a simpler decision
+
+57
+00:02:45.090 --> 00:02:49.050
+regarding whether or not this opportunity moves forward
+
+58
+00:02:49.050 --> 00:02:52.010
+and becomes a project.
+
+59
+00:02:52.010 --> 00:02:55.040
+At this point, you've effectively shared the risk
+
+60
+00:02:55.040 --> 00:03:00.020
+between IT and product, and done so in a cost-effective
+
+61
+00:03:00.020 --> 00:03:02.060
+and time-effective manner.
+
+62
+00:03:02.060 --> 00:03:05.010
+You're investing less up front
+
+63
+00:03:05.010 --> 00:03:09.070
+in order to justify greater expenditure later.
+
+64
+00:03:09.070 --> 00:03:13.020
+As an IT leader, engaging your external customers
+
+65
+00:03:13.020 --> 00:03:16.080
+usually involves other departments in your organization.
+
+66
+00:03:16.080 --> 00:03:19.040
+Use your influence, and these steps
+
+67
+00:03:19.040 --> 00:03:24.000
+to create a customer-focused organization.
+

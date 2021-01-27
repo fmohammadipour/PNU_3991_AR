@@ -1,0 +1,296 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:00.070 --> 00:00:04.030
+- All models for scaling have advantages and drawbacks,
+
+2
+00:00:04.030 --> 00:00:06.010
+but we need to align those
+
+3
+00:00:06.010 --> 00:00:08.090
+with our own organization's objectives.
+
+4
+00:00:08.090 --> 00:00:12.020
+Let's look at JPMorgan Chase and their experience
+
+5
+00:00:12.020 --> 00:00:16.020
+with the Large-Scale Scrum or LeSS model.
+
+6
+00:00:16.020 --> 00:00:20.090
+In 2013, the global core processing technology organization
+
+7
+00:00:20.090 --> 00:00:24.070
+decided to transform to scrum and the LeSS model.
+
+8
+00:00:24.070 --> 00:00:26.090
+They started in the securities department
+
+9
+00:00:26.090 --> 00:00:28.090
+to prove the model out.
+
+10
+00:00:28.090 --> 00:00:31.040
+The LeSS model is focused entirely
+
+11
+00:00:31.040 --> 00:00:33.040
+on spreading the scrum framework
+
+12
+00:00:33.040 --> 00:00:35.090
+across the whole organization.
+
+13
+00:00:35.090 --> 00:00:39.030
+Specifically, the model tries to remove levels
+
+14
+00:00:39.030 --> 00:00:43.020
+from the organization, thus eliminating complexity
+
+15
+00:00:43.020 --> 00:00:48.090
+and increasing speed, quality, clarity, and collaboration.
+
+16
+00:00:48.090 --> 00:00:51.010
+There are two levels of LeSS.
+
+17
+00:00:51.010 --> 00:00:55.020
+The first level, LeSS, is designed for up to eight teams,
+
+18
+00:00:55.020 --> 00:00:58.030
+and the second, called LeSS Huge,
+
+19
+00:00:58.030 --> 00:01:02.000
+scales to greater than 1,000 developers.
+
+20
+00:01:02.000 --> 00:01:05.030
+The model itself is quite straightforward
+
+21
+00:01:05.030 --> 00:01:08.080
+since it takes the scrum framework used on a single team
+
+22
+00:01:08.080 --> 00:01:12.000
+and applies it to multiple teams.
+
+23
+00:01:12.000 --> 00:01:15.080
+The LeSS version or multi-team scrum is organized
+
+24
+00:01:15.080 --> 00:01:18.010
+around products or services.
+
+25
+00:01:18.010 --> 00:01:21.090
+Each product or service then has a single backlog,
+
+26
+00:01:21.090 --> 00:01:26.020
+and multiple teams pull from that backlog.
+
+27
+00:01:26.020 --> 00:01:30.020
+When JPMorgan Chase set out to improve their scrum rollout,
+
+28
+00:01:30.020 --> 00:01:32.020
+they chose to go with LeSS
+
+29
+00:01:32.020 --> 00:01:36.020
+because they wanted to eliminate bureaucracy
+
+30
+00:01:36.020 --> 00:01:38.090
+in the organization that hinders agility
+
+31
+00:01:38.090 --> 00:01:43.010
+and implement coordinated teams to reduce handoffs,
+
+32
+00:01:43.010 --> 00:01:48.010
+dependencies, and delays in getting products to market.
+
+33
+00:01:48.010 --> 00:01:50.050
+What results has Chase experienced?
+
+34
+00:01:50.050 --> 00:01:52.030
+Well, they've seen great reductions
+
+35
+00:01:52.030 --> 00:01:55.040
+in handoffs and context switching.
+
+36
+00:01:55.040 --> 00:01:58.000
+These have had direct bottom-line benefits
+
+37
+00:01:58.000 --> 00:02:00.080
+to reducing waste and delays.
+
+38
+00:02:00.080 --> 00:02:04.050
+They've also seen improved transparency and speed
+
+39
+00:02:04.050 --> 00:02:06.030
+since the teams are empowered
+
+40
+00:02:06.030 --> 00:02:09.090
+to make many decisions by themselves.
+
+41
+00:02:09.090 --> 00:02:12.060
+Let's look at the pros and cons of the LeSS model
+
+42
+00:02:12.060 --> 00:02:15.080
+to help you get started with your decision.
+
+43
+00:02:15.080 --> 00:02:18.080
+As a pro, since it's based on scrum,
+
+44
+00:02:18.080 --> 00:02:22.010
+LeSS is easy to understand and apply.
+
+45
+00:02:22.010 --> 00:02:24.030
+This model is highly configurable
+
+46
+00:02:24.030 --> 00:02:26.080
+to the needs of your organization.
+
+47
+00:02:26.080 --> 00:02:30.060
+Here the focus is really on creating working product
+
+48
+00:02:30.060 --> 00:02:34.000
+and minimizing organizational overhead.
+
+49
+00:02:34.000 --> 00:02:36.090
+In most cases, this means that the org chart
+
+50
+00:02:36.090 --> 00:02:39.000
+will change dramatically.
+
+51
+00:02:39.000 --> 00:02:42.020
+LeSS calls for the creation of product-focused,
+
+52
+00:02:42.020 --> 00:02:46.090
+customer-centric teams that stay together for a long time.
+
+53
+00:02:46.090 --> 00:02:48.040
+At the program level,
+
+54
+00:02:48.040 --> 00:02:52.000
+dependencies are handled through solid DevOps practices,
+
+55
+00:02:52.000 --> 00:02:56.070
+sharing code bases, and doing frequent code integrations.
+
+56
+00:02:56.070 --> 00:02:58.050
+At the portfolio level,
+
+57
+00:02:58.050 --> 00:03:02.080
+LeSS expects a robust product management organization
+
+58
+00:03:02.080 --> 00:03:05.050
+to prioritize and plan out the features
+
+59
+00:03:05.050 --> 00:03:07.060
+before they reach the teams.
+
+60
+00:03:07.060 --> 00:03:10.090
+The biggest con with LeSS is the high level
+
+61
+00:03:10.090 --> 00:03:14.000
+of discipline you must instill in the organization
+
+62
+00:03:14.000 --> 00:03:16.060
+in the actual practice of scrum.
+
+63
+00:03:16.060 --> 00:03:19.020
+Since this is the least prescriptive method
+
+64
+00:03:19.020 --> 00:03:20.070
+that's commonly used,
+
+65
+00:03:20.070 --> 00:03:24.060
+you'll have to solve for some gaps with customization.
+
+66
+00:03:24.060 --> 00:03:27.010
+Another challenge with this model is
+
+67
+00:03:27.010 --> 00:03:29.050
+that it necessitates a complete change
+
+68
+00:03:29.050 --> 00:03:32.040
+in your IT organizational structure.
+
+69
+00:03:32.040 --> 00:03:36.000
+If LeSS is the way you want to go, that's great,
+
+70
+00:03:36.000 --> 00:03:37.060
+but you're going to have to know
+
+71
+00:03:37.060 --> 00:03:40.080
+that this model requires a wholesale commitment.
+
+72
+00:03:40.080 --> 00:03:42.030
+Be sure you decide
+
+73
+00:03:42.030 --> 00:03:46.000
+in accordance with the state of your organization.
+

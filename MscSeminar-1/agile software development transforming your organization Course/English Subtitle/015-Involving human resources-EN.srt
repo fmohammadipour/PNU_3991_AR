@@ -1,0 +1,236 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:00.080 --> 00:00:03.080
+- As you begin mapping out your transformation,
+
+2
+00:00:03.080 --> 00:00:06.020
+you've probably already realized
+
+3
+00:00:06.020 --> 00:00:09.000
+that the success of your organizational change
+
+4
+00:00:09.000 --> 00:00:13.030
+is completely dependent on the people in it.
+
+5
+00:00:13.030 --> 00:00:16.070
+This is true for every organizational change you make.
+
+6
+00:00:16.070 --> 00:00:19.020
+When you're planning a full transformation,
+
+7
+00:00:19.020 --> 00:00:23.050
+it pays to engage your human resources team or HR.
+
+8
+00:00:23.050 --> 00:00:26.070
+Let's take a look at a case study about Volvo
+
+9
+00:00:26.070 --> 00:00:29.050
+and their realization that HR could have helped them
+
+10
+00:00:29.050 --> 00:00:31.070
+through the transformation.
+
+11
+00:00:31.070 --> 00:00:34.030
+At Volvo, the vast majority of employees
+
+12
+00:00:34.030 --> 00:00:36.070
+are not at the management level.
+
+13
+00:00:36.070 --> 00:00:40.060
+That being the case, the existing HR frameworks
+
+14
+00:00:40.060 --> 00:00:43.020
+for communicating with employees can help.
+
+15
+00:00:43.020 --> 00:00:46.020
+This type of robust communication channel
+
+16
+00:00:46.020 --> 00:00:49.050
+can spread accurate information.
+
+17
+00:00:49.050 --> 00:00:52.080
+In the absence of up to date information
+
+18
+00:00:52.080 --> 00:00:57.070
+about the transition, employee fear and uncertainty grows.
+
+19
+00:00:57.070 --> 00:00:59.080
+Utilizing HR could have helped Volvo
+
+20
+00:00:59.080 --> 00:01:02.090
+expand their communication reach.
+
+21
+00:01:02.090 --> 00:01:05.060
+Another area where HR could have helped Volvo
+
+22
+00:01:05.060 --> 00:01:08.080
+is in the area of job role mapping.
+
+23
+00:01:08.080 --> 00:01:11.080
+Volvo shares that HR should be involved
+
+24
+00:01:11.080 --> 00:01:14.050
+in identifying new roles.
+
+25
+00:01:14.050 --> 00:01:17.010
+HR is essential in helping leadership
+
+26
+00:01:17.010 --> 00:01:19.040
+create transition plans for people
+
+27
+00:01:19.040 --> 00:01:22.040
+to grow into new responsibilities.
+
+28
+00:01:22.040 --> 00:01:24.090
+As the older structures of the organization
+
+29
+00:01:24.090 --> 00:01:27.030
+shift to the new agile reality,
+
+30
+00:01:27.030 --> 00:01:30.000
+HR's help in defining new career paths
+
+31
+00:01:30.000 --> 00:01:34.010
+can also ease the fears of employees.
+
+32
+00:01:34.010 --> 00:01:36.090
+Volvo noted that this encouraged employees
+
+33
+00:01:36.090 --> 00:01:41.060
+to feel safe and valued in the dynamic environment.
+
+34
+00:01:41.060 --> 00:01:44.070
+Additionally, establishing KPIs for staff
+
+35
+00:01:44.070 --> 00:01:47.070
+as they transition into their new responsibilities
+
+36
+00:01:47.070 --> 00:01:51.020
+will also help employees feel safe.
+
+37
+00:01:51.020 --> 00:01:54.030
+There will be changes needed regarding how team members
+
+38
+00:01:54.030 --> 00:01:56.000
+are measured and mentored.
+
+39
+00:01:56.000 --> 00:01:59.030
+Here, HR is an essential partner.
+
+40
+00:01:59.030 --> 00:02:03.040
+Since HR has a key role in reinforcing company culture
+
+41
+00:02:03.040 --> 00:02:07.020
+and training policies, it makes sense to include
+
+42
+00:02:07.020 --> 00:02:10.090
+this aspect of HR in your transformation as well.
+
+43
+00:02:10.090 --> 00:02:12.070
+Given the reach of HR,
+
+44
+00:02:12.070 --> 00:02:16.000
+Volvo found that engaging HR to survey staff
+
+45
+00:02:16.000 --> 00:02:20.060
+during the transformation could provide useful information
+
+46
+00:02:20.060 --> 00:02:24.040
+engaging the health of the transformation.
+
+47
+00:02:24.040 --> 00:02:28.040
+Finally, your HR department can help build training
+
+48
+00:02:28.040 --> 00:02:32.040
+and educational curriculum for existing employees
+
+49
+00:02:32.040 --> 00:02:34.060
+and new hires.
+
+50
+00:02:34.060 --> 00:02:37.010
+The material should span both the mindset
+
+51
+00:02:37.010 --> 00:02:40.080
+and the tactical agile methods you're implementing.
+
+52
+00:02:40.080 --> 00:02:44.000
+This level of standardized education
+
+53
+00:02:44.000 --> 00:02:48.090
+will reinforce a cohesive culture in your organization.
+
+54
+00:02:48.090 --> 00:02:51.070
+Specifically, that means the transition
+
+55
+00:02:51.070 --> 00:02:55.090
+is happening as a whole, not in silos.
+
+56
+00:02:55.090 --> 00:02:58.090
+When you take these steps in partnership with HR,
+
+57
+00:02:58.090 --> 00:03:01.050
+you'll create an agile transformation
+
+58
+00:03:01.050 --> 00:03:06.000
+that's effective and, most importantly, sustainable.
+

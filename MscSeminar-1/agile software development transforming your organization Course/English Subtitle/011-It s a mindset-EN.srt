@@ -1,0 +1,300 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.030 --> 00:00:03.000
+- As you set out to transform
+
+2
+00:00:03.000 --> 00:00:05.030
+your organization to agile,
+
+3
+00:00:05.030 --> 00:00:07.030
+the most important first step
+
+4
+00:00:07.030 --> 00:00:10.040
+is understanding what it means to be agile
+
+5
+00:00:10.040 --> 00:00:13.030
+versus simply doing agile.
+
+6
+00:00:13.030 --> 00:00:16.000
+Executing agile, the actual process
+
+7
+00:00:16.000 --> 00:00:18.000
+of delivering work though an agile framework,
+
+8
+00:00:18.000 --> 00:00:19.070
+is fairly simple.
+
+9
+00:00:19.070 --> 00:00:21.060
+In many cases, companies roll out
+
+10
+00:00:21.060 --> 00:00:24.010
+the agile techniques and collaboration tools,
+
+11
+00:00:24.010 --> 00:00:26.000
+and see some improvements.
+
+12
+00:00:26.000 --> 00:00:27.050
+But they end up unsure
+
+13
+00:00:27.050 --> 00:00:28.090
+why they're not benefiting
+
+14
+00:00:28.090 --> 00:00:31.060
+as much as other organizations.
+
+15
+00:00:31.060 --> 00:00:34.040
+The root cause for this difference is simple;
+
+16
+00:00:34.040 --> 00:00:36.040
+it's the agile mindset.
+
+17
+00:00:36.040 --> 00:00:39.000
+Instilling this into your organization
+
+18
+00:00:39.000 --> 00:00:42.030
+requires a lot of time and effort.
+
+19
+00:00:42.030 --> 00:00:44.050
+Essentially, you're changing
+
+20
+00:00:44.050 --> 00:00:47.020
+the culture of your organization.
+
+21
+00:00:47.020 --> 00:00:49.040
+These cultural changes will help you
+
+22
+00:00:49.040 --> 00:00:52.050
+reap the rewards you've been hoping for.
+
+23
+00:00:52.050 --> 00:00:56.020
+So, what is this mindset you need to shift to?
+
+24
+00:00:56.020 --> 00:00:57.070
+Look at the agile mindset
+
+25
+00:00:57.070 --> 00:01:00.010
+as a set of foundational values
+
+26
+00:01:00.010 --> 00:01:03.010
+on which you'll build the organization.
+
+27
+00:01:03.010 --> 00:01:04.090
+Everyone in your organization
+
+28
+00:01:04.090 --> 00:01:08.030
+can use them to guide behaviors and habits.
+
+29
+00:01:08.030 --> 00:01:10.050
+Scrum has a defined set of values
+
+30
+00:01:10.050 --> 00:01:13.050
+that are a great starting point for every team
+
+31
+00:01:13.050 --> 00:01:17.000
+and for your organization, as well.
+
+32
+00:01:17.000 --> 00:01:21.000
+The Scrum values are, first, focus.
+
+33
+00:01:21.000 --> 00:01:23.060
+Everyone focuses on the work to be done
+
+34
+00:01:23.060 --> 00:01:26.010
+and the organizational goals.
+
+35
+00:01:26.010 --> 00:01:28.060
+Next is respect.
+
+36
+00:01:28.060 --> 00:01:31.040
+Everyone treats all others with respect
+
+37
+00:01:31.040 --> 00:01:34.060
+and a belief that each person is capable
+
+38
+00:01:34.060 --> 00:01:39.020
+and are doing the best they can at all times.
+
+39
+00:01:39.020 --> 00:01:40.060
+Openness.
+
+40
+00:01:40.060 --> 00:01:43.050
+Team members, leaders, stakeholders.
+
+41
+00:01:43.050 --> 00:01:46.040
+Everyone agrees to be honest about the work
+
+42
+00:01:46.040 --> 00:01:48.060
+and the challenges they face.
+
+43
+00:01:48.060 --> 00:01:52.000
+This is also known as transparency.
+
+44
+00:01:52.000 --> 00:01:54.030
+Then comes courage.
+
+45
+00:01:54.030 --> 00:01:57.060
+This value demands that everyone do the right thing
+
+46
+00:01:57.060 --> 00:02:00.080
+and not shy away from challenges.
+
+47
+00:02:00.080 --> 00:02:02.080
+This also means that failure
+
+48
+00:02:02.080 --> 00:02:05.040
+is expected to happen sometimes
+
+49
+00:02:05.040 --> 00:02:07.050
+and will be faced as a gateway
+
+50
+00:02:07.050 --> 00:02:09.060
+to greater knowledge.
+
+51
+00:02:09.060 --> 00:02:11.060
+It also means that everyone
+
+52
+00:02:11.060 --> 00:02:14.000
+must share their concerns,
+
+53
+00:02:14.000 --> 00:02:17.000
+so the best solution can be found.
+
+54
+00:02:17.000 --> 00:02:19.020
+Finally is commitment.
+
+55
+00:02:19.020 --> 00:02:22.030
+Each person must fully and personally commit
+
+56
+00:02:22.030 --> 00:02:24.080
+to achieving the goals of the team
+
+57
+00:02:24.080 --> 00:02:27.020
+and the organization.
+
+58
+00:02:27.020 --> 00:02:29.010
+When you base your transformation
+
+59
+00:02:29.010 --> 00:02:30.090
+on a set of values,
+
+60
+00:02:30.090 --> 00:02:33.000
+you establish expectations
+
+61
+00:02:33.000 --> 00:02:34.090
+for the future state.
+
+62
+00:02:34.090 --> 00:02:36.080
+Everyone in the organization,
+
+63
+00:02:36.080 --> 00:02:39.040
+from the highest to lowest level,
+
+64
+00:02:39.040 --> 00:02:43.080
+now has a framework from which to make decisions.
+
+65
+00:02:43.080 --> 00:02:47.000
+Your leadership team needs to model these values
+
+66
+00:02:47.000 --> 00:02:49.050
+and provide guidance to team members,
+
+67
+00:02:49.050 --> 00:02:52.080
+so they can live these values, too.
+
+68
+00:02:52.080 --> 00:02:54.070
+These values then become
+
+69
+00:02:54.070 --> 00:02:57.000
+foundational expectations
+
+70
+00:02:57.000 --> 00:02:59.000
+for behaviors that will result
+
+71
+00:02:59.000 --> 00:03:02.020
+in a high-performing organization.
+
+72
+00:03:02.020 --> 00:03:04.030
+Once the mindset is in place,
+
+73
+00:03:04.030 --> 00:03:06.030
+then doing the agile practices
+
+74
+00:03:06.030 --> 00:03:11.000
+will push your organization forward faster.
+

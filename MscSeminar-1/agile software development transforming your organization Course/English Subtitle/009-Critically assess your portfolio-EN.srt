@@ -1,0 +1,284 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.040 --> 00:00:04.070
+- Transforming your organization is more complex
+
+2
+00:00:04.070 --> 00:00:09.050
+than simply changing processes and practices for your teams.
+
+3
+00:00:09.050 --> 00:00:12.030
+In order for your transformation to sustain,
+
+4
+00:00:12.030 --> 00:00:16.040
+you have to change the way work is given to the teams.
+
+5
+00:00:16.040 --> 00:00:17.090
+In many organizations,
+
+6
+00:00:17.090 --> 00:00:21.060
+the portfolio of projects or simply your portfolio
+
+7
+00:00:21.060 --> 00:00:25.010
+is an unwieldy list of all the great business cases
+
+8
+00:00:25.010 --> 00:00:27.040
+that have accumulated over the years.
+
+9
+00:00:27.040 --> 00:00:30.020
+It represents projects of varying sizes
+
+10
+00:00:30.020 --> 00:00:33.030
+and often abstract benefit.
+
+11
+00:00:33.030 --> 00:00:36.060
+Your first step in getting a handle on the portfolio
+
+12
+00:00:36.060 --> 00:00:41.030
+is deeply examining everything that's already out there.
+
+13
+00:00:41.030 --> 00:00:44.030
+This is tactically an easy thing to do
+
+14
+00:00:44.030 --> 00:00:47.050
+but strategically it's very hard.
+
+15
+00:00:47.050 --> 00:00:50.070
+That's because for every project in your portfolio,
+
+16
+00:00:50.070 --> 00:00:53.010
+there's an approved business case
+
+17
+00:00:53.010 --> 00:00:54.090
+that has one or more people
+
+18
+00:00:54.090 --> 00:00:57.050
+that's passionate about its delivery.
+
+19
+00:00:57.050 --> 00:00:58.080
+The first step then
+
+20
+00:00:58.080 --> 00:01:01.070
+is to start working with these stakeholders.
+
+21
+00:01:01.070 --> 00:01:04.010
+Your goal is to influence them
+
+22
+00:01:04.010 --> 00:01:07.060
+and help them see that the status quo is inefficient
+
+23
+00:01:07.060 --> 00:01:11.020
+and doesn't deliver the value they want quickly enough.
+
+24
+00:01:11.020 --> 00:01:13.090
+The portfolio hasn't been as nimble
+
+25
+00:01:13.090 --> 00:01:16.050
+as the business needs it to be.
+
+26
+00:01:16.050 --> 00:01:18.010
+Once you have their buy-in
+
+27
+00:01:18.010 --> 00:01:21.030
+to help you critically assess the portfolio,
+
+28
+00:01:21.030 --> 00:01:25.030
+there are a couple of key steps you can take to get started.
+
+29
+00:01:25.030 --> 00:01:29.020
+First, gather a list of all the projects in your portfolio
+
+30
+00:01:29.020 --> 00:01:32.050
+and decide what the shelf life of a business case should be
+
+31
+00:01:32.050 --> 00:01:34.040
+for your organization.
+
+32
+00:01:34.040 --> 00:01:38.010
+Yogurt expires and so should your business cases.
+
+33
+00:01:38.010 --> 00:01:41.020
+This may sound radical but consider this,
+
+34
+00:01:41.020 --> 00:01:44.010
+the business case is based on a set of assumptions
+
+35
+00:01:44.010 --> 00:01:46.060
+that were true at that time.
+
+36
+00:01:46.060 --> 00:01:50.080
+Business and our marketplace changes daily.
+
+37
+00:01:50.080 --> 00:01:53.010
+A set of assumptions from last year
+
+38
+00:01:53.010 --> 00:01:56.030
+are not likely to be valid today.
+
+39
+00:01:56.030 --> 00:01:59.050
+In most cases, if an approved business case
+
+40
+00:01:59.050 --> 00:02:03.000
+hasn't had work started in one year from its approval date,
+
+41
+00:02:03.000 --> 00:02:06.040
+it needs to be rewritten and resubmitted.
+
+42
+00:02:06.040 --> 00:02:11.000
+The assumptions it began with may not be valid anymore.
+
+43
+00:02:11.000 --> 00:02:13.040
+Don't you want to know whether it's still valid
+
+44
+00:02:13.040 --> 00:02:14.090
+before work starts?
+
+45
+00:02:14.090 --> 00:02:17.020
+Of course you do.
+
+46
+00:02:17.020 --> 00:02:20.070
+Next, you want to ensure that every business case
+
+47
+00:02:20.070 --> 00:02:24.090
+has stated links to the overall business strategy.
+
+48
+00:02:24.090 --> 00:02:26.050
+Stakeholders should know
+
+49
+00:02:26.050 --> 00:02:30.020
+not just the value that the work will deliver to the company
+
+50
+00:02:30.020 --> 00:02:32.030
+but also that it's aligned
+
+51
+00:02:32.030 --> 00:02:36.000
+to the long-term business objectives.
+
+52
+00:02:36.000 --> 00:02:38.060
+Finally, you may have already used PACE
+
+53
+00:02:38.060 --> 00:02:41.070
+or another method to set the priority of the work
+
+54
+00:02:41.070 --> 00:02:44.060
+but now you need to compare those high-priority items
+
+55
+00:02:44.060 --> 00:02:46.060
+against each other.
+
+56
+00:02:46.060 --> 00:02:49.020
+This is known as sequencing the work.
+
+57
+00:02:49.020 --> 00:02:52.090
+It helps you understand which high-priority item
+
+58
+00:02:52.090 --> 00:02:55.070
+should be the first to be executed.
+
+59
+00:02:55.070 --> 00:02:59.030
+Most companies use the weighted shortest job first
+
+60
+00:02:59.030 --> 00:03:01.080
+or WSJF for short.
+
+61
+00:03:01.080 --> 00:03:04.070
+Essentially, WSJF measures the ratio
+
+62
+00:03:04.070 --> 00:03:07.050
+of the expected business value the work delivers
+
+63
+00:03:07.050 --> 00:03:10.060
+against the amount of time it will take to deliver it.
+
+64
+00:03:10.060 --> 00:03:14.060
+It recognizes that items with the highest cost of delay
+
+65
+00:03:14.060 --> 00:03:17.050
+should be completed first.
+
+66
+00:03:17.050 --> 00:03:20.050
+As you critically assess your portfolio,
+
+67
+00:03:20.050 --> 00:03:24.020
+you'll be establishing a flow of work from your business
+
+68
+00:03:24.020 --> 00:03:28.040
+and through the factory of your Agile teams.
+
+69
+00:03:28.040 --> 00:03:29.090
+When you do this,
+
+70
+00:03:29.090 --> 00:03:35.000
+you'll enable your organization for full business agility.
+

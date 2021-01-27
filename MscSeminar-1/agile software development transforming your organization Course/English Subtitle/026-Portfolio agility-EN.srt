@@ -1,0 +1,260 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.000 --> 00:00:03.010
+- We know that an Agile transformation
+
+2
+00:00:03.010 --> 00:00:06.050
+will impact every area of the organization.
+
+3
+00:00:06.050 --> 00:00:08.000
+You'll be applying metrics
+
+4
+00:00:08.000 --> 00:00:10.050
+at the team and organization level
+
+5
+00:00:10.050 --> 00:00:13.040
+to see the health of the transformation.
+
+6
+00:00:13.040 --> 00:00:15.070
+The portfolio is the entry point
+
+7
+00:00:15.070 --> 00:00:18.000
+for work moving to the teams.
+
+8
+00:00:18.000 --> 00:00:21.010
+Assessing the well-being of the portfolio transformation
+
+9
+00:00:21.010 --> 00:00:23.070
+is a key element.
+
+10
+00:00:23.070 --> 00:00:25.050
+What should you be looking for?
+
+11
+00:00:25.050 --> 00:00:28.040
+Well, there are many measures you can use.
+
+12
+00:00:28.040 --> 00:00:32.040
+For me, there are four key measures that I look for.
+
+13
+00:00:32.040 --> 00:00:36.040
+First, I like to measure strategic alignment.
+
+14
+00:00:36.040 --> 00:00:40.020
+Every company has strategic objectives they try to attain.
+
+15
+00:00:40.020 --> 00:00:43.080
+These objectives are linked to the company's mission.
+
+16
+00:00:43.080 --> 00:00:47.040
+Therefore, all work being done should be directly linked
+
+17
+00:00:47.040 --> 00:00:49.070
+to attaining one of those objectives.
+
+18
+00:00:49.070 --> 00:00:52.050
+This is a straightforward tracking item.
+
+19
+00:00:52.050 --> 00:00:56.020
+Each feature or work item that's in the portfolio backlog
+
+20
+00:00:56.020 --> 00:00:58.020
+or is actively being worked
+
+21
+00:00:58.020 --> 00:01:01.050
+should tie to at least one of the objectives.
+
+22
+00:01:01.050 --> 00:01:03.000
+If something isn't linked,
+
+23
+00:01:03.000 --> 00:01:05.050
+it's an invitation to assess
+
+24
+00:01:05.050 --> 00:01:07.050
+whether the feature should be killed
+
+25
+00:01:07.050 --> 00:01:11.040
+or transformed into something with alignment.
+
+26
+00:01:11.040 --> 00:01:16.060
+Next, it's a great idea to measure investment class targets.
+
+27
+00:01:16.060 --> 00:01:18.030
+When budgets are created,
+
+28
+00:01:18.030 --> 00:01:21.050
+they're usually divided into categories of work.
+
+29
+00:01:21.050 --> 00:01:25.080
+I use the run, grow, and transform classes.
+
+30
+00:01:25.080 --> 00:01:27.040
+Run features are related
+
+31
+00:01:27.040 --> 00:01:29.090
+to keeping the business going as is.
+
+32
+00:01:29.090 --> 00:01:33.010
+Grow features are those that will expand the footprint
+
+33
+00:01:33.010 --> 00:01:35.070
+of existing products and services.
+
+34
+00:01:35.070 --> 00:01:38.030
+Transform features are related to creating
+
+35
+00:01:38.030 --> 00:01:41.030
+completely new products or services.
+
+36
+00:01:41.030 --> 00:01:45.030
+It's likely that your budgets reflect these classes.
+
+37
+00:01:45.030 --> 00:01:47.050
+Keep tabs on the work that is active
+
+38
+00:01:47.050 --> 00:01:49.050
+or planned in your portfolio
+
+39
+00:01:49.050 --> 00:01:54.030
+to ensure work is aligned to established investment classes.
+
+40
+00:01:54.030 --> 00:01:56.030
+Third, I like to keep track
+
+41
+00:01:56.030 --> 00:01:59.000
+of the overall efficiency of the system
+
+42
+00:01:59.000 --> 00:02:02.020
+by capturing a cycle time metric.
+
+43
+00:02:02.020 --> 00:02:04.020
+This measures how long it takes
+
+44
+00:02:04.020 --> 00:02:07.030
+for a feature to be completed once work starts.
+
+45
+00:02:07.030 --> 00:02:11.000
+The goal is to keep cycle time as low as possible
+
+46
+00:02:11.000 --> 00:02:14.080
+without having a negative impact on quality.
+
+47
+00:02:14.080 --> 00:02:17.000
+Finally, related to quality
+
+48
+00:02:17.000 --> 00:02:19.060
+is a measurement of business value.
+
+49
+00:02:19.060 --> 00:02:23.060
+For this, I use a Net Promoter Score, or NPS.
+
+50
+00:02:23.060 --> 00:02:27.070
+An NPS measures customer loyalty to your brand.
+
+51
+00:02:27.070 --> 00:02:31.000
+This is known as the relationship score.
+
+52
+00:02:31.000 --> 00:02:35.020
+Another type of NPS measures a customer's experience
+
+53
+00:02:35.020 --> 00:02:37.050
+with a specific transaction.
+
+54
+00:02:37.050 --> 00:02:38.060
+In this case,
+
+55
+00:02:38.060 --> 00:02:40.050
+if you've released a new feature
+
+56
+00:02:40.050 --> 00:02:43.060
+and want to gauge the customer experience with it,
+
+57
+00:02:43.060 --> 00:02:46.070
+you can use an NPS transactional survey
+
+58
+00:02:46.070 --> 00:02:50.010
+to gain insight into the value being delivered.
+
+59
+00:02:50.010 --> 00:02:54.060
+This can be used with both internal and external customers.
+
+60
+00:02:54.060 --> 00:02:58.010
+As you measure the transformation against your goals,
+
+61
+00:02:58.010 --> 00:02:59.080
+you'll gain valuable insight
+
+62
+00:02:59.080 --> 00:03:02.070
+into where you may need to shift your focus.
+
+63
+00:03:02.070 --> 00:03:05.030
+Keeping track of your portfolio health
+
+64
+00:03:05.030 --> 00:03:09.000
+will help you ensure you're delivering what's needed.
+

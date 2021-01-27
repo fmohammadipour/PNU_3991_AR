@@ -1,0 +1,268 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.040 --> 00:00:04.080
+- If you've already adopted some agile practices,
+
+2
+00:00:04.080 --> 00:00:08.040
+are you seeing the great benefits everyone is talking about?
+
+3
+00:00:08.040 --> 00:00:11.080
+If you're not, I promise you you're not alone.
+
+4
+00:00:11.080 --> 00:00:14.030
+Agile is not a silver bullet.
+
+5
+00:00:14.030 --> 00:00:18.040
+It won't solve all your organization's problems for you.
+
+6
+00:00:18.040 --> 00:00:23.010
+In fact, agile's main strength is exposing the problems
+
+7
+00:00:23.010 --> 00:00:26.020
+that have been slowing you down all along.
+
+8
+00:00:26.020 --> 00:00:30.030
+It doesn't solve them, but it shows you what to target.
+
+9
+00:00:30.030 --> 00:00:32.000
+So when agile fails,
+
+10
+00:00:32.000 --> 00:00:35.010
+it's showing you a roadmap of things to fix.
+
+11
+00:00:35.010 --> 00:00:38.030
+Once fixed, these things get out of the way
+
+12
+00:00:38.030 --> 00:00:41.060
+and you start seeing the results you've been expecting.
+
+13
+00:00:41.060 --> 00:00:45.030
+So if you're not alone in this, what are others seeing?
+
+14
+00:00:45.030 --> 00:00:47.050
+Let's look at some of the most common sources
+
+15
+00:00:47.050 --> 00:00:50.030
+for the problems organizations face.
+
+16
+00:00:50.030 --> 00:00:52.030
+One root cause for many problems
+
+17
+00:00:52.030 --> 00:00:55.080
+is simply the lack of training and experience.
+
+18
+00:00:55.080 --> 00:00:58.090
+In many cases, the introduction of agile is led
+
+19
+00:00:58.090 --> 00:01:01.030
+by only one or a few people.
+
+20
+00:01:01.030 --> 00:01:03.030
+These folks learned about it on the internet
+
+21
+00:01:03.030 --> 00:01:05.020
+and want to give it a try.
+
+22
+00:01:05.020 --> 00:01:06.040
+There's nothing wrong with that,
+
+23
+00:01:06.040 --> 00:01:09.080
+and it can be successful for a team or two.
+
+24
+00:01:09.080 --> 00:01:12.050
+As agile expands beyond that level, though,
+
+25
+00:01:12.050 --> 00:01:15.050
+you need to invest in training and coaching
+
+26
+00:01:15.050 --> 00:01:20.050
+to ensure what's being done is done well and sustainably.
+
+27
+00:01:20.050 --> 00:01:23.080
+Another root cause is your company culture.
+
+28
+00:01:23.080 --> 00:01:26.050
+Agile is not simply a set of practices.
+
+29
+00:01:26.050 --> 00:01:28.010
+It's a mindset.
+
+30
+00:01:28.010 --> 00:01:31.060
+Quite frankly, that mindset tends to run counter
+
+31
+00:01:31.060 --> 00:01:35.060
+to traditional corporate cultures and philosophies.
+
+32
+00:01:35.060 --> 00:01:37.090
+Examine your company culture.
+
+33
+00:01:37.090 --> 00:01:41.070
+Will it be hostile to the agile principles and values?
+
+34
+00:01:41.070 --> 00:01:45.090
+If it will, agile can only be successful in small pockets
+
+35
+00:01:45.090 --> 00:01:50.030
+unless you take steps to change your culture.
+
+36
+00:01:50.030 --> 00:01:53.090
+Next, consider the management team you have in place.
+
+37
+00:01:53.090 --> 00:01:56.050
+If your transformation isn't well-planned,
+
+38
+00:01:56.050 --> 00:01:59.030
+this group of leaders will discover on the internet
+
+39
+00:01:59.030 --> 00:02:01.060
+that in its purest form,
+
+40
+00:02:01.060 --> 00:02:05.010
+agile has no defined role for managers.
+
+41
+00:02:05.010 --> 00:02:06.070
+When they see that,
+
+42
+00:02:06.070 --> 00:02:11.010
+they may work hard to ensure agile doesn't replace them.
+
+43
+00:02:11.010 --> 00:02:13.080
+Now, you and I both know these leaders are essential
+
+44
+00:02:13.080 --> 00:02:17.000
+to an organization, agile or not.
+
+45
+00:02:17.000 --> 00:02:19.050
+As you build your transformation roadmap,
+
+46
+00:02:19.050 --> 00:02:21.050
+make sure this group is part of it
+
+47
+00:02:21.050 --> 00:02:25.020
+and has a clearly defined role with training.
+
+48
+00:02:25.020 --> 00:02:28.010
+Now, consider the tools you have in place
+
+49
+00:02:28.010 --> 00:02:31.010
+for coding, testing, and deploying.
+
+50
+00:02:31.010 --> 00:02:34.030
+In many cases, the teams are becoming faster,
+
+51
+00:02:34.030 --> 00:02:38.010
+but the apparatus for testing and moving code is founded
+
+52
+00:02:38.010 --> 00:02:40.050
+on waterfall phase gates.
+
+53
+00:02:40.050 --> 00:02:43.030
+If you want to move to agile at scale,
+
+54
+00:02:43.030 --> 00:02:45.030
+you'll need to tackle your tools
+
+55
+00:02:45.030 --> 00:02:48.060
+as part of your transformation roadmap.
+
+56
+00:02:48.060 --> 00:02:51.050
+Finally, let's talk about metrics.
+
+57
+00:02:51.050 --> 00:02:54.060
+Agile has a great set of metrics at the team level
+
+58
+00:02:54.060 --> 00:02:56.090
+that can be consistently applied,
+
+59
+00:02:56.090 --> 00:03:00.030
+but as you scale to programs and the whole portfolio,
+
+60
+00:03:00.030 --> 00:03:04.080
+there isn't a comprehensive set of standard metrics.
+
+61
+00:03:04.080 --> 00:03:07.070
+You'll need to implement this so that you know what to do
+
+62
+00:03:07.070 --> 00:03:10.070
+to further the transformation.
+
+63
+00:03:10.070 --> 00:03:13.050
+If any of these things sound familiar,
+
+64
+00:03:13.050 --> 00:03:15.030
+these may be some of the reasons
+
+65
+00:03:15.030 --> 00:03:18.040
+you're not seeing the agile benefits you hoped for.
+
+66
+00:03:18.040 --> 00:03:23.000
+You can make changes to reap the rewards you want.
+

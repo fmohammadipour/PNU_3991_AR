@@ -1,0 +1,136 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.040 --> 00:00:05.050
+- Undertaking an agile transformation is a huge effort.
+
+2
+00:00:05.050 --> 00:00:07.080
+It will take all of your skill
+
+3
+00:00:07.080 --> 00:00:10.040
+to move the organization forward.
+
+4
+00:00:10.040 --> 00:00:15.010
+Remember no organization's transformation is like any other.
+
+5
+00:00:15.010 --> 00:00:18.090
+Each is as unique as your company.
+
+6
+00:00:18.090 --> 00:00:22.090
+Agile is intended to be tweaked, to perfectly fit your needs
+
+7
+00:00:22.090 --> 00:00:25.060
+and it's intended to evolve as
+
+8
+00:00:25.060 --> 00:00:28.080
+your organization grows and changes.
+
+9
+00:00:28.080 --> 00:00:32.020
+As long as you remain grounded in the agile mindset,
+
+10
+00:00:32.020 --> 00:00:34.080
+you'll be just fine.
+
+11
+00:00:34.080 --> 00:00:36.080
+Thank you for spending time with me
+
+12
+00:00:36.080 --> 00:00:38.080
+as we examine all of the changes
+
+13
+00:00:38.080 --> 00:00:40.080
+that will need to take place.
+
+14
+00:00:40.080 --> 00:00:44.000
+To help you continue on your transformation journey,
+
+15
+00:00:44.000 --> 00:00:46.060
+I recommend you read the following books.
+
+16
+00:00:46.060 --> 00:00:50.010
+First, 'Turn the Ship Around' by David Marquet.
+
+17
+00:00:50.010 --> 00:00:53.040
+This is an inspiring story of transformation
+
+18
+00:00:53.040 --> 00:00:55.080
+on a nuclear submarine.
+
+19
+00:00:55.080 --> 00:00:59.040
+'Value Stream Mapping' by Karen Martin and Mike Osterling,
+
+20
+00:00:59.040 --> 00:01:02.020
+which will help you identify and understand
+
+21
+00:01:02.020 --> 00:01:06.090
+your IT organization as a group of value streams.
+
+22
+00:01:06.090 --> 00:01:09.090
+Finally if you want a deeper look at DevOps,
+
+23
+00:01:09.090 --> 00:01:12.090
+I suggest you read 'Leading the Transformation'
+
+24
+00:01:12.090 --> 00:01:15.050
+by Gary Gruver and Tommy Mauser.
+
+25
+00:01:15.050 --> 00:01:18.020
+If you haven't already, it might be a good time
+
+26
+00:01:18.020 --> 00:01:20.080
+to find an agile coach you can partner with
+
+27
+00:01:20.080 --> 00:01:24.000
+to roadmap your transformation.
+
+28
+00:01:24.000 --> 00:01:26.070
+Thank you so much for taking this deep dive
+
+29
+00:01:26.070 --> 00:01:29.020
+into agile transformation with me.
+
+30
+00:01:29.020 --> 00:01:31.010
+Please reach out to me on LinkedIn.
+
+31
+00:01:31.010 --> 00:01:32.050
+I'd love to hear from you
+
+32
+00:01:32.050 --> 00:01:35.070
+and learn about your transformation questions.
+
+33
+00:01:35.070 --> 00:01:39.000
+Good luck to you and your teams.
+

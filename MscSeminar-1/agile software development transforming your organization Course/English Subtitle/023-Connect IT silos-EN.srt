@@ -1,0 +1,264 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:00.070 --> 00:00:03.010
+- Organizational silos are common.
+
+2
+00:00:03.010 --> 00:00:05.040
+In fact, they're everywhere.
+
+3
+00:00:05.040 --> 00:00:10.060
+Silos generally develop to solve very specific problems.
+
+4
+00:00:10.060 --> 00:00:13.080
+When specialized knowledge or skill is needed,
+
+5
+00:00:13.080 --> 00:00:17.070
+you build a group of specialists to tackle the problems.
+
+6
+00:00:17.070 --> 00:00:21.070
+These groups then become silos of knowledge and skill.
+
+7
+00:00:21.070 --> 00:00:24.010
+When you look at a typical IT department,
+
+8
+00:00:24.010 --> 00:00:27.060
+the organizational structure is a series of silos.
+
+9
+00:00:27.060 --> 00:00:31.060
+For example, you usually see divisions along specialty.
+
+10
+00:00:31.060 --> 00:00:34.030
+Software development may be one of your silos.
+
+11
+00:00:34.030 --> 00:00:37.040
+Even that can be subdivided into further silos
+
+12
+00:00:37.040 --> 00:00:39.070
+like .NET or Java.
+
+13
+00:00:39.070 --> 00:00:42.060
+While it's good to have the breadth and depth of knowledge
+
+14
+00:00:42.060 --> 00:00:44.070
+to effectively run your organization,
+
+15
+00:00:44.070 --> 00:00:46.060
+it can cause problems.
+
+16
+00:00:46.060 --> 00:00:49.070
+The problems are probably ones you're already seeing
+
+17
+00:00:49.070 --> 00:00:51.040
+in your organization.
+
+18
+00:00:51.040 --> 00:00:55.000
+Namely, information isn't shared freely.
+
+19
+00:00:55.000 --> 00:00:57.040
+Each knowledge area has their own
+
+20
+00:00:57.040 --> 00:01:00.000
+key performance indicators, or KPIs,
+
+21
+00:01:00.000 --> 00:01:03.020
+and many times they conflict with each other.
+
+22
+00:01:03.020 --> 00:01:05.080
+For example, the software development silo
+
+23
+00:01:05.080 --> 00:01:09.000
+may have KPIs related to the frequency
+
+24
+00:01:09.000 --> 00:01:11.040
+of new software deployments.
+
+25
+00:01:11.040 --> 00:01:15.050
+That KPI may demand frequent release of code.
+
+26
+00:01:15.050 --> 00:01:20.010
+At the same time, the testing silo may have KPIs
+
+27
+00:01:20.010 --> 00:01:22.090
+related to the number of defects found in code
+
+28
+00:01:22.090 --> 00:01:24.060
+before it's released.
+
+29
+00:01:24.060 --> 00:01:26.070
+This push/pull in your department
+
+30
+00:01:26.070 --> 00:01:29.070
+can cause conflict between the silos.
+
+31
+00:01:29.070 --> 00:01:32.030
+That conflict distracts everyone
+
+32
+00:01:32.030 --> 00:01:35.040
+from focusing on the mission.
+
+33
+00:01:35.040 --> 00:01:37.080
+As you move through your agile journey
+
+34
+00:01:37.080 --> 00:01:41.030
+you'll need to address the silos in your organization.
+
+35
+00:01:41.030 --> 00:01:43.040
+Creating cross-functional teams
+
+36
+00:01:43.040 --> 00:01:46.030
+and getting started on DevOps will help.
+
+37
+00:01:46.030 --> 00:01:48.090
+There is still more to do, though.
+
+38
+00:01:48.090 --> 00:01:52.060
+You may have already heard the term networked organization,
+
+39
+00:01:52.060 --> 00:01:55.000
+and that's really what you'll need to do
+
+40
+00:01:55.000 --> 00:01:59.010
+so that all of IT is directed toward the common goal.
+
+41
+00:01:59.010 --> 00:02:03.000
+A networked organization is simply one that understands
+
+42
+00:02:03.000 --> 00:02:05.050
+that the knowledge silos, or clusters,
+
+43
+00:02:05.050 --> 00:02:09.040
+are necessary, and, in fact, vital.
+
+44
+00:02:09.040 --> 00:02:12.070
+Further, it focuses on connecting the clusters
+
+45
+00:02:12.070 --> 00:02:14.070
+as closely as possible.
+
+46
+00:02:14.070 --> 00:02:17.000
+This is known at the path length.
+
+47
+00:02:17.000 --> 00:02:21.050
+Your goal then is to strengthen the skills in the clusters
+
+48
+00:02:21.050 --> 00:02:24.000
+while finding ways to keep the path links
+
+49
+00:02:24.000 --> 00:02:26.020
+between the clusters short.
+
+50
+00:02:26.020 --> 00:02:28.040
+There are simple steps you can take
+
+51
+00:02:28.040 --> 00:02:31.080
+to foster networking in your organization.
+
+52
+00:02:31.080 --> 00:02:34.020
+First, I suggest implementing
+
+53
+00:02:34.020 --> 00:02:36.090
+an onboarding program within IT.
+
+54
+00:02:36.090 --> 00:02:40.080
+You'll want the program to include cross cluster members
+
+55
+00:02:40.080 --> 00:02:42.070
+in each class.
+
+56
+00:02:42.070 --> 00:02:45.090
+Further, you can have mid and senior employees
+
+57
+00:02:45.090 --> 00:02:47.030
+lead the program.
+
+58
+00:02:47.030 --> 00:02:51.030
+This will encourage mentor/mentee relationships.
+
+59
+00:02:51.030 --> 00:02:53.060
+In the end, your new employees
+
+60
+00:02:53.060 --> 00:02:56.040
+will have the informal networks needed
+
+61
+00:02:56.040 --> 00:02:58.090
+to shorten the path links.
+
+62
+00:02:58.090 --> 00:03:01.070
+As you transform your organization,
+
+63
+00:03:01.070 --> 00:03:04.040
+remember silos aren't your enemy.
+
+64
+00:03:04.040 --> 00:03:05.080
+You can leverage them
+
+65
+00:03:05.080 --> 00:03:10.000
+and start networking your organization.
+

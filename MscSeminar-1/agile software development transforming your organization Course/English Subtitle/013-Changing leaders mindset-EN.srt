@@ -1,0 +1,252 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.000 --> 00:00:04.070
+- As you embark on transforming your organization to agile,
+
+2
+00:00:04.070 --> 00:00:08.030
+it's essential to remember that you can't do it alone.
+
+3
+00:00:08.030 --> 00:00:11.020
+You know that you need to reach out to your business peers
+
+4
+00:00:11.020 --> 00:00:14.040
+and leaders, but even that isn't enough.
+
+5
+00:00:14.040 --> 00:00:18.000
+You also need to encourage and foster the transition
+
+6
+00:00:18.000 --> 00:00:21.000
+within your own leadership team.
+
+7
+00:00:21.000 --> 00:00:22.060
+The first step in doing this
+
+8
+00:00:22.060 --> 00:00:25.090
+is to start with those leaders that report to you.
+
+9
+00:00:25.090 --> 00:00:28.030
+You'll start by sharing your vision with them
+
+10
+00:00:28.030 --> 00:00:30.080
+and gaining their support.
+
+11
+00:00:30.080 --> 00:00:34.090
+The next step with this group is to provide them training.
+
+12
+00:00:34.090 --> 00:00:37.060
+There are different types of training they'll need.
+
+13
+00:00:37.060 --> 00:00:40.060
+The first type is in the fundamentals of agile.
+
+14
+00:00:40.060 --> 00:00:43.080
+That includes both the philosophy, or mindset,
+
+15
+00:00:43.080 --> 00:00:46.090
+and the tactical details of the agile methods
+
+16
+00:00:46.090 --> 00:00:48.070
+you'll be rolling out.
+
+17
+00:00:48.070 --> 00:00:51.050
+Another type of training is often forgotten,
+
+18
+00:00:51.050 --> 00:00:54.050
+and that's role-specific training.
+
+19
+00:00:54.050 --> 00:00:57.030
+Missing at this item can be disastrous
+
+20
+00:00:57.030 --> 00:00:59.040
+for your transformation.
+
+21
+00:00:59.040 --> 00:01:01.080
+We all know that the leaders on your team
+
+22
+00:01:01.080 --> 00:01:05.000
+will still have their traditional accountabilities
+
+23
+00:01:05.000 --> 00:01:08.090
+for budget, productivity, and employee engagement.
+
+24
+00:01:08.090 --> 00:01:12.020
+However, the way in which they execute
+
+25
+00:01:12.020 --> 00:01:14.060
+on those responsibilities will be different
+
+26
+00:01:14.060 --> 00:01:17.000
+in an agile organization.
+
+27
+00:01:17.000 --> 00:01:19.030
+Agile leaders are not task managers
+
+28
+00:01:19.030 --> 00:01:22.060
+or a directive in how things are accomplished.
+
+29
+00:01:22.060 --> 00:01:25.010
+Agile leaders rely on establishing goals,
+
+30
+00:01:25.010 --> 00:01:29.010
+including deadlines, and then inspiring and empowering
+
+31
+00:01:29.010 --> 00:01:33.080
+their teams to take the lead on the execution of the work.
+
+32
+00:01:33.080 --> 00:01:36.060
+This is a huge shift for your leaders.
+
+33
+00:01:36.060 --> 00:01:39.030
+Historically, your team has been successful
+
+34
+00:01:39.030 --> 00:01:41.040
+at deciding on the path
+
+35
+00:01:41.040 --> 00:01:44.070
+and directing people to follow their need.
+
+36
+00:01:44.070 --> 00:01:47.030
+Agile demands leadership from behind,
+
+37
+00:01:47.030 --> 00:01:49.050
+where the leader is establishing a goal
+
+38
+00:01:49.050 --> 00:01:51.070
+and creating an environment
+
+39
+00:01:51.070 --> 00:01:54.080
+where the team members can succeed.
+
+40
+00:01:54.080 --> 00:01:57.010
+The next level of leadership preparation
+
+41
+00:01:57.010 --> 00:02:00.040
+is for the next layer down on your organization.
+
+42
+00:02:00.040 --> 00:02:02.010
+You've gained support for your vision
+
+43
+00:02:02.010 --> 00:02:04.010
+from your own team members.
+
+44
+00:02:04.010 --> 00:02:08.070
+Now they need to do the same with their team members.
+
+45
+00:02:08.070 --> 00:02:11.020
+These leaders will need to follow similar steps
+
+46
+00:02:11.020 --> 00:02:13.010
+with their team members.
+
+47
+00:02:13.010 --> 00:02:16.020
+They'll need the same training in the agile mindset,
+
+48
+00:02:16.020 --> 00:02:19.030
+methodologies, and role-specific guidance
+
+49
+00:02:19.030 --> 00:02:21.020
+for them to follow.
+
+50
+00:02:21.020 --> 00:02:24.030
+In my experience, the hardest change to make
+
+51
+00:02:24.030 --> 00:02:28.040
+is not the tactical implementation of an agile approach.
+
+52
+00:02:28.040 --> 00:02:31.020
+The hard part is the shifting mindset,
+
+53
+00:02:31.020 --> 00:02:33.040
+from commanding and controlling,
+
+54
+00:02:33.040 --> 00:02:36.080
+to enabling and empowering.
+
+55
+00:02:36.080 --> 00:02:40.040
+In order to create fertile ground for this mindset shift,
+
+56
+00:02:40.040 --> 00:02:42.080
+you have to start with leadership buy-in
+
+57
+00:02:42.080 --> 00:02:46.030
+all the way to the top of the organization.
+
+58
+00:02:46.030 --> 00:02:51.080
+This buy-in communicates that the change is not optional.
+
+59
+00:02:51.080 --> 00:02:55.090
+Take the time to set the stage for your agile transformation
+
+60
+00:02:55.090 --> 00:02:59.040
+by engaging and transforming your team.
+
+61
+00:02:59.040 --> 00:03:02.090
+When you do this, you're taking steps to make sure
+
+62
+00:03:02.090 --> 00:03:06.000
+agile succeeds for you.
+

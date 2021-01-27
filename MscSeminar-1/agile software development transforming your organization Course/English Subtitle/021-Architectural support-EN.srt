@@ -1,0 +1,248 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:00.070 --> 00:00:03.000
+- In many organizations I've worked with,
+
+2
+00:00:03.000 --> 00:00:06.050
+IT architects have been resistant to Agile.
+
+3
+00:00:06.050 --> 00:00:08.080
+Usually, they believe that the teams
+
+4
+00:00:08.080 --> 00:00:11.010
+will be designing solutions for their product
+
+5
+00:00:11.010 --> 00:00:16.000
+in a silo and won't take the larger ecosystem into account.
+
+6
+00:00:16.000 --> 00:00:18.090
+In fact, Agile demands that the teams
+
+7
+00:00:18.090 --> 00:00:20.060
+ground their development
+
+8
+00:00:20.060 --> 00:00:24.030
+within the context of the organization as a whole.
+
+9
+00:00:24.030 --> 00:00:26.040
+The architectural framework and standards
+
+10
+00:00:26.040 --> 00:00:29.050
+will apply to the teams and their solutions
+
+11
+00:00:29.050 --> 00:00:32.050
+throughout the product life cycle.
+
+12
+00:00:32.050 --> 00:00:33.090
+At the same time,
+
+13
+00:00:33.090 --> 00:00:35.070
+the Agile approach is different
+
+14
+00:00:35.070 --> 00:00:37.060
+from the Waterfall approach.
+
+15
+00:00:37.060 --> 00:00:41.080
+In the Waterfall method, all the design is done upfront.
+
+16
+00:00:41.080 --> 00:00:45.000
+Development becomes something like a paint-by-numbers,
+
+17
+00:00:45.000 --> 00:00:48.010
+where a code is written to the upfront specs.
+
+18
+00:00:48.010 --> 00:00:50.000
+When new information is discovered
+
+19
+00:00:50.000 --> 00:00:51.080
+that could change the design,
+
+20
+00:00:51.080 --> 00:00:53.050
+the developer has to go back
+
+21
+00:00:53.050 --> 00:00:56.000
+and get approval for the change.
+
+22
+00:00:56.000 --> 00:00:58.060
+The Agile architecture approach is different.
+
+23
+00:00:58.060 --> 00:01:02.060
+It acknowledges the complexity inherent in large systems
+
+24
+00:01:02.060 --> 00:01:04.020
+and large solutions.
+
+25
+00:01:04.020 --> 00:01:07.070
+It expects teams to exist in an ecosystem
+
+26
+00:01:07.070 --> 00:01:11.000
+that has been deliberately established.
+
+27
+00:01:11.000 --> 00:01:15.030
+From there, Agile expects teams to make design solutions
+
+28
+00:01:15.030 --> 00:01:16.070
+for their product.
+
+29
+00:01:16.070 --> 00:01:20.070
+That means the team is responsible for staying within
+
+30
+00:01:20.070 --> 00:01:22.080
+the established ecosystem,
+
+31
+00:01:22.080 --> 00:01:25.060
+while designing the best solution they can
+
+32
+00:01:25.060 --> 00:01:27.040
+for their product.
+
+33
+00:01:27.040 --> 00:01:30.090
+Product-specific designs are expected to emerge
+
+34
+00:01:30.090 --> 00:01:32.090
+from the team doing the work.
+
+35
+00:01:32.090 --> 00:01:35.070
+This emergent design is meant to fit within
+
+36
+00:01:35.070 --> 00:01:38.080
+the deliberate architectural framework.
+
+37
+00:01:38.080 --> 00:01:42.000
+Further, Agile expects teams and architects
+
+38
+00:01:42.000 --> 00:01:44.040
+to work collaboratively.
+
+39
+00:01:44.040 --> 00:01:47.010
+The architects that are responsible for the solution
+
+40
+00:01:47.010 --> 00:01:48.080
+and enterprise frameworks
+
+41
+00:01:48.080 --> 00:01:53.030
+need to understand what's happening at the team level.
+
+42
+00:01:53.030 --> 00:01:56.050
+As the team continues developing and discovering
+
+43
+00:01:56.050 --> 00:02:00.090
+and designing, the architects need to partner with them.
+
+44
+00:02:00.090 --> 00:02:03.070
+The partnership will ensure the ecosystem
+
+45
+00:02:03.070 --> 00:02:09.020
+supports the design and the design supports the ecosystem.
+
+46
+00:02:09.020 --> 00:02:11.050
+Without this level of collaboration,
+
+47
+00:02:11.050 --> 00:02:15.050
+you run the risk of either returning to big, upfront design
+
+48
+00:02:15.050 --> 00:02:18.080
+or having teams produce code that doesn't work
+
+49
+00:02:18.080 --> 00:02:20.050
+in your ecosystem.
+
+50
+00:02:20.050 --> 00:02:23.090
+To ensure you have this level of partnership in place
+
+51
+00:02:23.090 --> 00:02:25.080
+in your organization,
+
+52
+00:02:25.080 --> 00:02:28.090
+make sure that both your developers and architects
+
+53
+00:02:28.090 --> 00:02:31.040
+are trained on Agile practices.
+
+54
+00:02:31.040 --> 00:02:35.010
+Additionally, make sure they understand and are trained
+
+55
+00:02:35.010 --> 00:02:38.010
+on Agile architecture specifically.
+
+56
+00:02:38.010 --> 00:02:41.030
+Enable the two groups to define the best way
+
+57
+00:02:41.030 --> 00:02:44.040
+for all of them to maintain visibility and alignment
+
+58
+00:02:44.040 --> 00:02:46.070
+throughout the product life cycle.
+
+59
+00:02:46.070 --> 00:02:48.040
+When you take these steps,
+
+60
+00:02:48.040 --> 00:02:51.020
+you'll ensure the architecture in your organization
+
+61
+00:02:51.020 --> 00:02:54.000
+is both agile and stable.
+

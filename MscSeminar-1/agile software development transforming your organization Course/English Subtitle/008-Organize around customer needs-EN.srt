@@ -1,0 +1,340 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.020 --> 00:00:03.070
+- In any organization, there are dozens
+
+2
+00:00:03.070 --> 00:00:05.080
+of requests for projects.
+
+3
+00:00:05.080 --> 00:00:08.010
+Usually, all the ideas make it
+
+4
+00:00:08.010 --> 00:00:09.090
+into the portfolio of work
+
+5
+00:00:09.090 --> 00:00:13.010
+and nothing is ever rejected.
+
+6
+00:00:13.010 --> 00:00:15.050
+The challenge most organizations face
+
+7
+00:00:15.050 --> 00:00:17.030
+is assessing the ROI
+
+8
+00:00:17.030 --> 00:00:20.090
+of these requests quickly and easily.
+
+9
+00:00:20.090 --> 00:00:23.000
+You'll need to make sure both the business voice
+
+10
+00:00:23.000 --> 00:00:26.070
+and the technical voice are heard in this effort.
+
+11
+00:00:26.070 --> 00:00:30.010
+A technique I recommend is the PACE technique.
+
+12
+00:00:30.010 --> 00:00:33.060
+It's fast, simple and, most importantly,
+
+13
+00:00:33.060 --> 00:00:36.020
+tells you what not to do.
+
+14
+00:00:36.020 --> 00:00:38.050
+PACE stands for priority,
+
+15
+00:00:38.050 --> 00:00:42.010
+action, consider, and eliminate.
+
+16
+00:00:42.010 --> 00:00:44.080
+This technique places all of the ideas
+
+17
+00:00:44.080 --> 00:00:46.030
+along this spectrum
+
+18
+00:00:46.030 --> 00:00:48.010
+and helps you organize
+
+19
+00:00:48.010 --> 00:00:51.000
+around the most valuable work.
+
+20
+00:00:51.000 --> 00:00:52.080
+Here's how it works.
+
+21
+00:00:52.080 --> 00:00:55.030
+First, schedule a prioritization meeting
+
+22
+00:00:55.030 --> 00:00:57.060
+with your business leadership team.
+
+23
+00:00:57.060 --> 00:01:00.040
+This group will represent the business voice
+
+24
+00:01:00.040 --> 00:01:03.000
+and speak strictly to the business value
+
+25
+00:01:03.000 --> 00:01:05.030
+they see in each idea.
+
+26
+00:01:05.030 --> 00:01:08.000
+You'll also need your technical leadership team.
+
+27
+00:01:08.000 --> 00:01:10.040
+This group represents the technical voice
+
+28
+00:01:10.040 --> 00:01:12.000
+and speaks strictly
+
+29
+00:01:12.000 --> 00:01:13.020
+to the effort involved
+
+30
+00:01:13.020 --> 00:01:15.090
+in executing on each idea.
+
+31
+00:01:15.090 --> 00:01:18.030
+Next, create a numbered list
+
+32
+00:01:18.030 --> 00:01:21.050
+of your projects or customer needs.
+
+33
+00:01:21.050 --> 00:01:23.010
+Make sure this list is visible
+
+34
+00:01:23.010 --> 00:01:25.030
+to all the attendees.
+
+35
+00:01:25.030 --> 00:01:28.020
+Third, once everyone is in the room,
+
+36
+00:01:28.020 --> 00:01:29.090
+you'll need to come to an agreement
+
+37
+00:01:29.090 --> 00:01:32.040
+on what difficult and easy mean
+
+38
+00:01:32.040 --> 00:01:35.000
+in terms of effort or cost.
+
+39
+00:01:35.000 --> 00:01:37.070
+This represents the technical voice.
+
+40
+00:01:37.070 --> 00:01:40.010
+It'll be different for every organization,
+
+41
+00:01:40.010 --> 00:01:42.060
+but the definitions need to be consistent
+
+42
+00:01:42.060 --> 00:01:47.000
+for every idea presented in this and future sessions.
+
+43
+00:01:47.000 --> 00:01:49.070
+For example, you may define easy
+
+44
+00:01:49.070 --> 00:01:51.090
+to mean one team can complete
+
+45
+00:01:51.090 --> 00:01:54.070
+the work in one month, or two sprints.
+
+46
+00:01:54.070 --> 00:01:57.010
+You may decide difficult means
+
+47
+00:01:57.010 --> 00:01:58.050
+multiple teams are needed
+
+48
+00:01:58.050 --> 00:02:02.060
+for at least one quarter, or six sprints.
+
+49
+00:02:02.060 --> 00:02:04.020
+You'll also set the definitions
+
+50
+00:02:04.020 --> 00:02:07.020
+of high and low on the value scale.
+
+51
+00:02:07.020 --> 00:02:09.020
+This is the business voice.
+
+52
+00:02:09.020 --> 00:02:12.010
+For example, you may define low value
+
+53
+00:02:12.010 --> 00:02:15.090
+as benefiting less than 25% of customers
+
+54
+00:02:15.090 --> 00:02:20.000
+while high would benefit more than 80%.
+
+55
+00:02:20.000 --> 00:02:22.060
+Now, you'll create the PACE metrics
+
+56
+00:02:22.060 --> 00:02:24.080
+on a whiteboard or flip chart.
+
+57
+00:02:24.080 --> 00:02:28.000
+The X-axis represents the business voice,
+
+58
+00:02:28.000 --> 00:02:30.070
+and the scale starts with high on the left
+
+59
+00:02:30.070 --> 00:02:33.030
+and moves to low on the right.
+
+60
+00:02:33.030 --> 00:02:36.050
+The Y-axis represents the technical voice
+
+61
+00:02:36.050 --> 00:02:39.030
+and moves from difficult at the bottom
+
+62
+00:02:39.030 --> 00:02:41.070
+to easy at the top.
+
+63
+00:02:41.070 --> 00:02:44.000
+Finally, ask the business leaders
+
+64
+00:02:44.000 --> 00:02:45.070
+to write the numbers representing
+
+65
+00:02:45.070 --> 00:02:48.070
+the ideas along the X-axis.
+
+66
+00:02:48.070 --> 00:02:50.030
+The business can't move the number
+
+67
+00:02:50.030 --> 00:02:53.010
+vertically on the scale, only horizontally,
+
+68
+00:02:53.010 --> 00:02:55.010
+since they can't speak to the technical
+
+69
+00:02:55.010 --> 00:02:57.050
+difficulty of the implementation.
+
+70
+00:02:57.050 --> 00:02:59.090
+Then, ask the technical leaders
+
+71
+00:02:59.090 --> 00:03:01.030
+to move the numbers
+
+72
+00:03:01.030 --> 00:03:03.080
+the business has placed on the value line
+
+73
+00:03:03.080 --> 00:03:06.050
+vertically so that its difficulty
+
+74
+00:03:06.050 --> 00:03:10.030
+is represented on the cost effort scale.
+
+75
+00:03:10.030 --> 00:03:13.000
+Finally, add the PACE lines.
+
+76
+00:03:13.000 --> 00:03:14.060
+The top-left corner is where
+
+77
+00:03:14.060 --> 00:03:16.060
+your organization should focus.
+
+78
+00:03:16.060 --> 00:03:18.020
+These have the highest benefit
+
+79
+00:03:18.020 --> 00:03:21.060
+and will require the least amount of work.
+
+80
+00:03:21.060 --> 00:03:23.050
+Using the PACE technique,
+
+81
+00:03:23.050 --> 00:03:25.080
+you can help your business partners
+
+82
+00:03:25.080 --> 00:03:28.030
+make wise ROI decisions.
+
+83
+00:03:28.030 --> 00:03:31.000
+Your partnership with the business team
+
+84
+00:03:31.000 --> 00:03:36.000
+will prove the value of your transforming organization.
+

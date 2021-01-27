@@ -1,0 +1,256 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:00.070 --> 00:00:04.060
+- You can transform your organization to agile practices
+
+2
+00:00:04.060 --> 00:00:06.070
+without implementing any changes
+
+3
+00:00:06.070 --> 00:00:10.010
+to the underlying systems and processes teams use.
+
+4
+00:00:10.010 --> 00:00:12.000
+These underlying structures
+
+5
+00:00:12.000 --> 00:00:15.060
+are the things that teams use to test and deploy code
+
+6
+00:00:15.060 --> 00:00:17.050
+into the production environment.
+
+7
+00:00:17.050 --> 00:00:18.070
+Transforming to agile
+
+8
+00:00:18.070 --> 00:00:21.090
+without implementing any changes in this area though
+
+9
+00:00:21.090 --> 00:00:25.080
+will limit the benefits you see from your transformation.
+
+10
+00:00:25.080 --> 00:00:27.030
+You might wonder why that is.
+
+11
+00:00:27.030 --> 00:00:29.030
+So let's explore it for a minute.
+
+12
+00:00:29.030 --> 00:00:31.080
+Your teams will be doing agile development.
+
+13
+00:00:31.080 --> 00:00:34.070
+That means they'll be following Scrum, XP,
+
+14
+00:00:34.070 --> 00:00:36.070
+or any of the other frameworks.
+
+15
+00:00:36.070 --> 00:00:41.020
+Teams will unlock the advantages of speed and quality
+
+16
+00:00:41.020 --> 00:00:43.060
+that come with that change.
+
+17
+00:00:43.060 --> 00:00:47.080
+However, organizational agility is something else entirely,
+
+18
+00:00:47.080 --> 00:00:50.030
+and that's what DevOps provides.
+
+19
+00:00:50.030 --> 00:00:52.080
+DevOps is the practice of partnership
+
+20
+00:00:52.080 --> 00:00:56.020
+between software development and operations engineers
+
+21
+00:00:56.020 --> 00:00:58.070
+throughout the entire value stream.
+
+22
+00:00:58.070 --> 00:01:01.040
+From design all the way through production support
+
+23
+00:01:01.040 --> 00:01:03.020
+for the products being released,
+
+24
+00:01:03.020 --> 00:01:05.020
+the engineers work together
+
+25
+00:01:05.020 --> 00:01:09.030
+to ensure the quality and stability of the product.
+
+26
+00:01:09.030 --> 00:01:12.040
+DevOps focuses on automating the processes
+
+27
+00:01:12.040 --> 00:01:14.060
+between software development teams
+
+28
+00:01:14.060 --> 00:01:17.020
+and IT infrastructure teams.
+
+29
+00:01:17.020 --> 00:01:21.020
+The goal is to build, test, and release software
+
+30
+00:01:21.020 --> 00:01:24.000
+faster and more consistently.
+
+31
+00:01:24.000 --> 00:01:26.030
+As a whole, the DevOps movement
+
+32
+00:01:26.030 --> 00:01:29.020
+applies the agile principles and mindset
+
+33
+00:01:29.020 --> 00:01:32.000
+to the practice of releasing and supporting
+
+34
+00:01:32.000 --> 00:01:34.050
+the deployed solution.
+
+35
+00:01:34.050 --> 00:01:37.020
+DevOps seeks tighter integration
+
+36
+00:01:37.020 --> 00:01:39.070
+between software and operations.
+
+37
+00:01:39.070 --> 00:01:42.050
+It's a framework then for continuous delivery,
+
+38
+00:01:42.050 --> 00:01:46.010
+continuous integration, and automated testing.
+
+39
+00:01:46.010 --> 00:01:49.090
+I have worked with organizations that transformed to agile
+
+40
+00:01:49.090 --> 00:01:52.040
+without having a plan or a roadmap in place
+
+41
+00:01:52.040 --> 00:01:54.080
+for DevOps transformation.
+
+42
+00:01:54.080 --> 00:01:57.000
+The result of these transformations
+
+43
+00:01:57.000 --> 00:01:59.070
+was only partially successful.
+
+44
+00:01:59.070 --> 00:02:01.040
+This is because all they did
+
+45
+00:02:01.040 --> 00:02:05.060
+was to push the barriers to agility downstream.
+
+46
+00:02:05.060 --> 00:02:07.030
+What I mean by this
+
+47
+00:02:07.030 --> 00:02:10.060
+is that before those organizations adopted agile,
+
+48
+00:02:10.060 --> 00:02:14.010
+the teams were slow and couldn't produce products
+
+49
+00:02:14.010 --> 00:02:17.030
+fast enough in the traditional environment.
+
+50
+00:02:17.030 --> 00:02:18.080
+Agile methods provided
+
+51
+00:02:18.080 --> 00:02:21.080
+the fast development lifecycle they needed.
+
+52
+00:02:21.080 --> 00:02:24.060
+However, when they didn't improve the ways
+
+53
+00:02:24.060 --> 00:02:27.040
+the teams tested and released code,
+
+54
+00:02:27.040 --> 00:02:31.090
+the system remained just as slow as they were before.
+
+55
+00:02:31.090 --> 00:02:35.080
+Now the bottleneck for delivery is no longer the team.
+
+56
+00:02:35.080 --> 00:02:38.080
+It's the infrastructure supporting them.
+
+57
+00:02:38.080 --> 00:02:41.050
+As you plan out your agile transformation,
+
+58
+00:02:41.050 --> 00:02:45.060
+take the time to include DevOps changes into your plan.
+
+59
+00:02:45.060 --> 00:02:47.010
+To help you get started,
+
+60
+00:02:47.010 --> 00:02:49.010
+check out the LinkedIn learning course
+
+61
+00:02:49.010 --> 00:02:52.030
+DevOps Foundations: Lean and Agile.
+
+62
+00:02:52.030 --> 00:02:54.080
+When you do, you'll be on your way
+
+63
+00:02:54.080 --> 00:02:58.000
+to full organizational agility.
+

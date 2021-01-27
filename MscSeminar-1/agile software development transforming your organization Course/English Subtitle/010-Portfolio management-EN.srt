@@ -1,0 +1,236 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.020 --> 00:00:04.040
+- When you introduce Agile methods at the team level,
+
+2
+00:00:04.040 --> 00:00:08.000
+you'll definitely see some great benefits.
+
+3
+00:00:08.000 --> 00:00:09.010
+It won't, however,
+
+4
+00:00:09.010 --> 00:00:13.000
+solve every problem you're facing as an organization.
+
+5
+00:00:13.000 --> 00:00:15.070
+Let's take a look at the experience of Elekta
+
+6
+00:00:15.070 --> 00:00:20.030
+and what happened when they adopted Agile at the team level.
+
+7
+00:00:20.030 --> 00:00:24.000
+Elekta is a high-tech organization focused on solutions
+
+8
+00:00:24.000 --> 00:00:26.090
+for treating cancer and brain disorders.
+
+9
+00:00:26.090 --> 00:00:30.080
+Elekta started by applying Agile, specifically Scrum,
+
+10
+00:00:30.080 --> 00:00:33.080
+for three teams that were distributed globally.
+
+11
+00:00:33.080 --> 00:00:37.020
+Each of the teams was working on the same product.
+
+12
+00:00:37.020 --> 00:00:41.000
+Elekta saw some very real, tangible results.
+
+13
+00:00:41.000 --> 00:00:43.040
+They experienced increased delivery of work
+
+14
+00:00:43.040 --> 00:00:45.090
+through their teams and had real,
+
+15
+00:00:45.090 --> 00:00:49.070
+functioning deliverables each and every Sprint.
+
+16
+00:00:49.070 --> 00:00:52.060
+They were able to leverage additional agility
+
+17
+00:00:52.060 --> 00:00:54.000
+at the feature level.
+
+18
+00:00:54.000 --> 00:00:55.080
+This meant that their business partners
+
+19
+00:00:55.080 --> 00:00:59.030
+could make smart choices about refining direction
+
+20
+00:00:59.030 --> 00:01:01.030
+as they learned more.
+
+21
+00:01:01.030 --> 00:01:04.050
+Elekta also learned that there were still some gaps
+
+22
+00:01:04.050 --> 00:01:07.040
+that team-level agility couldn't provide.
+
+23
+00:01:07.040 --> 00:01:11.060
+For example, they realized their teams lost the visibility
+
+24
+00:01:11.060 --> 00:01:13.010
+across the teams.
+
+25
+00:01:13.010 --> 00:01:15.050
+While they were delivering quickly and effectively
+
+26
+00:01:15.050 --> 00:01:16.070
+on their product,
+
+27
+00:01:16.070 --> 00:01:18.080
+they couldn't see what other teams were doing
+
+28
+00:01:18.080 --> 00:01:21.040
+and how it all fit together.
+
+29
+00:01:21.040 --> 00:01:26.080
+In essence, Scrum alone didn't address two key elements.
+
+30
+00:01:26.080 --> 00:01:30.030
+First, an intake process for all product initiatives
+
+31
+00:01:30.030 --> 00:01:33.040
+across the portfolio, and second,
+
+32
+00:01:33.040 --> 00:01:38.010
+a way to coordinate and organize the team's work.
+
+33
+00:01:38.010 --> 00:01:40.090
+What did Elekta do to solve that?
+
+34
+00:01:40.090 --> 00:01:44.040
+Well, they set out to better understand the demand
+
+35
+00:01:44.040 --> 00:01:48.010
+across their product lines and strategic initiatives.
+
+36
+00:01:48.010 --> 00:01:50.040
+Elekta realized that this understanding
+
+37
+00:01:50.040 --> 00:01:53.030
+was the foundation to building roadmaps
+
+38
+00:01:53.030 --> 00:01:57.020
+that can take the organization where it needed to go.
+
+39
+00:01:57.020 --> 00:01:59.050
+Once they understood the roadmap,
+
+40
+00:01:59.050 --> 00:02:01.080
+they were able to begin planning the work
+
+41
+00:02:01.080 --> 00:02:05.070
+and estimating the effort needed to accomplish it.
+
+42
+00:02:05.070 --> 00:02:08.090
+Elekta created an organization of business
+
+43
+00:02:08.090 --> 00:02:12.060
+and engineering experts to work together
+
+44
+00:02:12.060 --> 00:02:16.080
+to complete this high-level analysis and estimation.
+
+45
+00:02:16.080 --> 00:02:18.050
+The next step, of course,
+
+46
+00:02:18.050 --> 00:02:21.030
+was to compare what they knew of the estimates
+
+47
+00:02:21.030 --> 00:02:24.070
+to the capacity the teams actually had.
+
+48
+00:02:24.070 --> 00:02:26.060
+With this information,
+
+49
+00:02:26.060 --> 00:02:32.040
+Elekta was able to control the flow of work to the teams.
+
+50
+00:02:32.040 --> 00:02:36.030
+Further, Elekta was able to accurately forecast
+
+51
+00:02:36.030 --> 00:02:39.020
+what work would be done when.
+
+52
+00:02:39.020 --> 00:02:43.050
+This has created an environment where long-term planning
+
+53
+00:02:43.050 --> 00:02:46.070
+is real and effective.
+
+54
+00:02:46.070 --> 00:02:49.050
+As you forge your transformation plan,
+
+55
+00:02:49.050 --> 00:02:52.060
+be sure to include portfolio management changes
+
+56
+00:02:52.060 --> 00:02:54.020
+into your roadmap.
+
+57
+00:02:54.020 --> 00:02:55.040
+When you do,
+
+58
+00:02:55.040 --> 00:03:01.000
+you'll see real benefits for your long-term planning goals.
+

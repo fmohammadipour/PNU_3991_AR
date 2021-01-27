@@ -1,0 +1,272 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.000 --> 00:00:03.040
+- As you establish your agile teams,
+
+2
+00:00:03.040 --> 00:00:05.000
+you'll want to start measuring
+
+3
+00:00:05.000 --> 00:00:07.050
+their growth in agile practices.
+
+4
+00:00:07.050 --> 00:00:10.070
+This can help you understand where there are areas
+
+5
+00:00:10.070 --> 00:00:12.080
+you should provide additional training
+
+6
+00:00:12.080 --> 00:00:15.030
+or support to the teams.
+
+7
+00:00:15.030 --> 00:00:18.060
+Almost all teams track their velocity metric.
+
+8
+00:00:18.060 --> 00:00:21.020
+For our purpose of understanding how agile
+
+9
+00:00:21.020 --> 00:00:25.080
+or healthy a team is, this metric is not useful.
+
+10
+00:00:25.080 --> 00:00:28.020
+While it's a great tool for the team to use
+
+11
+00:00:28.020 --> 00:00:32.040
+and self assess, since point measures vary by team,
+
+12
+00:00:32.040 --> 00:00:34.020
+they aren't useful when you're looking
+
+13
+00:00:34.020 --> 00:00:36.040
+across the department.
+
+14
+00:00:36.040 --> 00:00:39.040
+There are a few metrics I recommend using.
+
+15
+00:00:39.040 --> 00:00:42.010
+First, measure team size.
+
+16
+00:00:42.010 --> 00:00:44.030
+Any team with fewer than three people
+
+17
+00:00:44.030 --> 00:00:47.080
+or more than 10 people is going to be less efficient
+
+18
+00:00:47.080 --> 00:00:51.030
+than teams sized between four and 10.
+
+19
+00:00:51.030 --> 00:00:54.000
+When a team falls outside these parameters,
+
+20
+00:00:54.000 --> 00:00:57.070
+it's time to look into the situation and try to remedy it.
+
+21
+00:00:57.070 --> 00:01:02.010
+This is an ongoing measure and should be looked at monthly.
+
+22
+00:01:02.010 --> 00:01:04.060
+Also related to this is a measurement
+
+23
+00:01:04.060 --> 00:01:07.000
+of team member dedication.
+
+24
+00:01:07.000 --> 00:01:09.040
+While complete dedication to a single team
+
+25
+00:01:09.040 --> 00:01:13.070
+is the ideal state, it may not be possible for every team.
+
+26
+00:01:13.070 --> 00:01:17.080
+Measure this and try to ensure that fewer than 30%
+
+27
+00:01:17.080 --> 00:01:21.070
+of team members are working on more than one team.
+
+28
+00:01:21.070 --> 00:01:24.060
+Next, capture the ratio of committed
+
+29
+00:01:24.060 --> 00:01:27.070
+to completed story points for each sprint.
+
+30
+00:01:27.070 --> 00:01:32.060
+This measure gauges the team's ability to plan effectively.
+
+31
+00:01:32.060 --> 00:01:35.020
+The goal is for the team to hit their commitment
+
+32
+00:01:35.020 --> 00:01:37.090
+within 10%, plus or minus.
+
+33
+00:01:37.090 --> 00:01:40.070
+For example, if a team committed 20 points
+
+34
+00:01:40.070 --> 00:01:44.040
+and completed 18, they're within their goal.
+
+35
+00:01:44.040 --> 00:01:47.060
+This you'll want to measure every four sprints or so.
+
+36
+00:01:47.060 --> 00:01:51.090
+The expectation is that the team usually hits their metric.
+
+37
+00:01:51.090 --> 00:01:55.030
+If the trend shows continuous large misses,
+
+38
+00:01:55.030 --> 00:01:57.020
+you'll want to investigate further
+
+39
+00:01:57.020 --> 00:02:01.000
+and help the team with additional coaching or training.
+
+40
+00:02:01.000 --> 00:02:05.090
+Next, release frequency is a good metric of team agility.
+
+41
+00:02:05.090 --> 00:02:08.050
+This will tell you whether working software
+
+42
+00:02:08.050 --> 00:02:12.060
+is being released to production after each sprint.
+
+43
+00:02:12.060 --> 00:02:15.010
+If it isn't happening, it will tell you
+
+44
+00:02:15.010 --> 00:02:18.040
+how long releases are actually taking.
+
+45
+00:02:18.040 --> 00:02:21.060
+Again, this metric will indicate whether the team
+
+46
+00:02:21.060 --> 00:02:24.090
+has the environment they need to release.
+
+47
+00:02:24.090 --> 00:02:27.060
+Additionally, it can provide insight
+
+48
+00:02:27.060 --> 00:02:29.080
+into what the product owners are deciding
+
+49
+00:02:29.080 --> 00:02:32.020
+as being valuable to release.
+
+50
+00:02:32.020 --> 00:02:36.090
+Both are good areas for investigation and collaboration.
+
+51
+00:02:36.090 --> 00:02:41.040
+Finally, technical excellence is a great metric to track.
+
+52
+00:02:41.040 --> 00:02:44.050
+This is captured by understanding how many defects
+
+53
+00:02:44.050 --> 00:02:47.060
+are found by the team during development,
+
+54
+00:02:47.060 --> 00:02:52.020
+by others outside the team, and by customers.
+
+55
+00:02:52.020 --> 00:02:54.070
+When you start to measure team agility,
+
+56
+00:02:54.070 --> 00:02:58.060
+you'll start to see patterns across the organization.
+
+57
+00:02:58.060 --> 00:03:02.050
+For example, if all teams have high numbers of defects
+
+58
+00:03:02.050 --> 00:03:05.080
+that are found by customers, it's an opportunity
+
+59
+00:03:05.080 --> 00:03:09.020
+for you to take action and help the teams improve
+
+60
+00:03:09.020 --> 00:03:12.030
+with education or tools.
+
+61
+00:03:12.030 --> 00:03:15.000
+You don't need to measure all of these things,
+
+62
+00:03:15.000 --> 00:03:18.020
+but be sure to select at least a few items.
+
+63
+00:03:18.020 --> 00:03:21.010
+What you do measure should be related to the goals
+
+64
+00:03:21.010 --> 00:03:23.070
+you set for your transformation.
+
+65
+00:03:23.070 --> 00:03:26.000
+When you measure your team's agility,
+
+66
+00:03:26.000 --> 00:03:28.020
+you'll gain valuable insight
+
+67
+00:03:28.020 --> 00:03:31.000
+into the health of your transformation.
+

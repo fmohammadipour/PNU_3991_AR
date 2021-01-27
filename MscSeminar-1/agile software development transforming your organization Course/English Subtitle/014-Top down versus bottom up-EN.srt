@@ -1,0 +1,324 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:00.080 --> 00:00:03.020
+- You may have heard the ongoing debate
+
+2
+00:00:03.020 --> 00:00:06.050
+about how to approach an agile transformation.
+
+3
+00:00:06.050 --> 00:00:08.030
+The debate usually centers around
+
+4
+00:00:08.030 --> 00:00:09.080
+either a top-down approach
+
+5
+00:00:09.080 --> 00:00:11.090
+or a bottom-up approach.
+
+6
+00:00:11.090 --> 00:00:14.020
+There is, of course, a third option,
+
+7
+00:00:14.020 --> 00:00:17.010
+and that's the 360-degree approach.
+
+8
+00:00:17.010 --> 00:00:18.060
+Let's put the debate to rest
+
+9
+00:00:18.060 --> 00:00:21.030
+and explore each of these options.
+
+10
+00:00:21.030 --> 00:00:23.090
+Let's start with the bottom-up approach,
+
+11
+00:00:23.090 --> 00:00:26.030
+because this happens quite often.
+
+12
+00:00:26.030 --> 00:00:28.010
+A bottom-up transformation
+
+13
+00:00:28.010 --> 00:00:30.060
+means exactly what you might infer,
+
+14
+00:00:30.060 --> 00:00:33.040
+the people at the lowest level of the organization
+
+15
+00:00:33.040 --> 00:00:36.030
+start the transformation at the team level.
+
+16
+00:00:36.030 --> 00:00:39.060
+The belief is that team level success alone
+
+17
+00:00:39.060 --> 00:00:42.060
+will earn buy-in from management.
+
+18
+00:00:42.060 --> 00:00:43.070
+While this is great,
+
+19
+00:00:43.070 --> 00:00:45.070
+since it means that you have some innovators
+
+20
+00:00:45.070 --> 00:00:48.030
+willing to make changes to get better results,
+
+21
+00:00:48.030 --> 00:00:51.030
+it's also risky to the organization.
+
+22
+00:00:51.030 --> 00:00:53.050
+For example, if several teams
+
+23
+00:00:53.050 --> 00:00:56.000
+are running Scrum independently,
+
+24
+00:00:56.000 --> 00:00:57.090
+there's no overarching goal
+
+25
+00:00:57.090 --> 00:01:00.040
+or roadmap to the transformation.
+
+26
+00:01:00.040 --> 00:01:02.020
+It can yield spotty results
+
+27
+00:01:02.020 --> 00:01:05.040
+without a cohesive vision or plan.
+
+28
+00:01:05.040 --> 00:01:08.010
+The benefits to be gained will also be limited
+
+29
+00:01:08.010 --> 00:01:09.060
+when this transformation
+
+30
+00:01:09.060 --> 00:01:11.080
+bumps into immovable objects,
+
+31
+00:01:11.080 --> 00:01:15.080
+like release schedules and project phase-gates.
+
+32
+00:01:15.080 --> 00:01:19.020
+Next, let's talk about the top-down approach.
+
+33
+00:01:19.020 --> 00:01:20.090
+This approach has the leaders
+
+34
+00:01:20.090 --> 00:01:23.080
+mandating an agile transformation.
+
+35
+00:01:23.080 --> 00:01:26.010
+While you need executive buy-in,
+
+36
+00:01:26.010 --> 00:01:28.020
+forcing teams to do anything
+
+37
+00:01:28.020 --> 00:01:31.000
+rarely gets you what you're looking for.
+
+38
+00:01:31.000 --> 00:01:32.030
+Most of the time,
+
+39
+00:01:32.030 --> 00:01:34.050
+the executives declare the mandate
+
+40
+00:01:34.050 --> 00:01:36.030
+but are too far removed
+
+41
+00:01:36.030 --> 00:01:38.050
+from the trenches where the work is done
+
+42
+00:01:38.050 --> 00:01:40.090
+to see the situation clearly.
+
+43
+00:01:40.090 --> 00:01:44.000
+In this case, executive expectations
+
+44
+00:01:44.000 --> 00:01:48.010
+can severely exceed ground-level capabilities.
+
+45
+00:01:48.010 --> 00:01:49.090
+The risk here is obvious.
+
+46
+00:01:49.090 --> 00:01:52.070
+When expectations are unrealistic,
+
+47
+00:01:52.070 --> 00:01:55.020
+any success will be minimized.
+
+48
+00:01:55.020 --> 00:01:57.050
+Additionally, top-down approaches
+
+49
+00:01:57.050 --> 00:01:59.020
+tend to occur in the command
+
+50
+00:01:59.020 --> 00:02:01.070
+and control style of leadership
+
+51
+00:02:01.070 --> 00:02:05.050
+that an agile mindset is trying to get away from.
+
+52
+00:02:05.050 --> 00:02:09.090
+Finally, let's explore the 360-degree approach.
+
+53
+00:02:09.090 --> 00:02:12.000
+This approach, as you might expect,
+
+54
+00:02:12.000 --> 00:02:15.010
+suggests approaching your transformation
+
+55
+00:02:15.010 --> 00:02:19.030
+from both the top and the bottom simultaneously.
+
+56
+00:02:19.030 --> 00:02:22.030
+In my experience, organizations that use
+
+57
+00:02:22.030 --> 00:02:25.060
+this approach are far more successful
+
+58
+00:02:25.060 --> 00:02:29.050
+than those using either top-down or bottom-up alone.
+
+59
+00:02:29.050 --> 00:02:30.090
+In this approach,
+
+60
+00:02:30.090 --> 00:02:34.000
+you end up with the best of both worlds.
+
+61
+00:02:34.000 --> 00:02:35.070
+The executive leadership team
+
+62
+00:02:35.070 --> 00:02:37.050
+is knowledgeable about agile
+
+63
+00:02:37.050 --> 00:02:40.080
+and is fully supportive of the changes needed.
+
+64
+00:02:40.080 --> 00:02:44.070
+They're willing to lead the change.
+
+65
+00:02:44.070 --> 00:02:46.020
+At the same time,
+
+66
+00:02:46.020 --> 00:02:48.050
+teams by business unit or product
+
+67
+00:02:48.050 --> 00:02:50.010
+are empowered to explore
+
+68
+00:02:50.010 --> 00:02:52.070
+the agile methods available to them
+
+69
+00:02:52.070 --> 00:02:53.090
+and find the one
+
+70
+00:02:53.090 --> 00:02:56.060
+that most closely suits their needs.
+
+71
+00:02:56.060 --> 00:02:58.090
+In this way, the team members
+
+72
+00:02:58.090 --> 00:03:01.010
+can customize where needed,
+
+73
+00:03:01.010 --> 00:03:03.030
+thus making them more committed
+
+74
+00:03:03.030 --> 00:03:05.050
+to what's implemented.
+
+75
+00:03:05.050 --> 00:03:07.050
+Agile transformations can be approached
+
+76
+00:03:07.050 --> 00:03:09.070
+from more than one angle.
+
+77
+00:03:09.070 --> 00:03:11.050
+Take the time to understand
+
+78
+00:03:11.050 --> 00:03:14.080
+which approach will bring you the greatest success.
+
+79
+00:03:14.080 --> 00:03:17.010
+When you do, your transformation
+
+80
+00:03:17.010 --> 00:03:19.000
+will yield great results.
+

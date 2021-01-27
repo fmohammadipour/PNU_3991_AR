@@ -1,0 +1,304 @@
+0
+00:00:00,0 --> 00:00:05,0
+
+
+1
+00:00:01.000 --> 00:00:02.080
+- Agile is a broad term
+
+2
+00:00:02.080 --> 00:00:05.040
+that applies to a family of practice frameworks
+
+3
+00:00:05.040 --> 00:00:08.020
+that are all based on the Agile Manifesto.
+
+4
+00:00:08.020 --> 00:00:11.020
+As you can see here, the Agile Manifesto
+
+5
+00:00:11.020 --> 00:00:14.090
+says it's focused on individuals and interactions.
+
+6
+00:00:14.090 --> 00:00:18.060
+It really wants to see working software,
+
+7
+00:00:18.060 --> 00:00:23.060
+and it totally wants the customer included all the time.
+
+8
+00:00:23.060 --> 00:00:26.080
+This enables us to respond to change.
+
+9
+00:00:26.080 --> 00:00:30.040
+These are the important tenets of the manifesto.
+
+10
+00:00:30.040 --> 00:00:32.090
+There are several Agile methodologies,
+
+11
+00:00:32.090 --> 00:00:35.080
+and we're going to examine the three most popular
+
+12
+00:00:35.080 --> 00:00:38.040
+and widely-used practices.
+
+13
+00:00:38.040 --> 00:00:40.080
+Not all practices will be a good fit
+
+14
+00:00:40.080 --> 00:00:42.010
+for each situation.
+
+15
+00:00:42.010 --> 00:00:45.070
+So let's take a look at where these might work best.
+
+16
+00:00:45.070 --> 00:00:48.000
+First, let's talk about Scrum.
+
+17
+00:00:48.000 --> 00:00:52.030
+Scrum is by far the most common Agile method used.
+
+18
+00:00:52.030 --> 00:00:54.030
+It's simple, and has been proven
+
+19
+00:00:54.030 --> 00:00:56.050
+to increase productivity.
+
+20
+00:00:56.050 --> 00:00:59.010
+In Scrum, the business representative
+
+21
+00:00:59.010 --> 00:01:01.060
+is part of the team and plays the role
+
+22
+00:01:01.060 --> 00:01:04.080
+of the product owner, or PO for short.
+
+23
+00:01:04.080 --> 00:01:07.010
+The PO develops the product backlog
+
+24
+00:01:07.010 --> 00:01:10.020
+that consists of new features, bug fixes,
+
+25
+00:01:10.020 --> 00:01:12.000
+and non-functional requirements
+
+26
+00:01:12.000 --> 00:01:14.000
+like response times.
+
+27
+00:01:14.000 --> 00:01:16.060
+The PO prioritizes all of the work
+
+28
+00:01:16.060 --> 00:01:19.020
+the cross-functional team of developers,
+
+29
+00:01:19.020 --> 00:01:21.040
+analysts, and testers work
+
+30
+00:01:21.040 --> 00:01:23.080
+to complete the backlog through a series
+
+31
+00:01:23.080 --> 00:01:26.050
+of two to four week sprints.
+
+32
+00:01:26.050 --> 00:01:28.040
+Scrum is most commonly used
+
+33
+00:01:28.040 --> 00:01:30.040
+for software development projects
+
+34
+00:01:30.040 --> 00:01:33.010
+where ongoing changes are common.
+
+35
+00:01:33.010 --> 00:01:35.010
+Scrum is a good fit
+
+36
+00:01:35.010 --> 00:01:36.070
+for distributed teams,
+
+37
+00:01:36.070 --> 00:01:40.020
+and requires close business collaboration.
+
+38
+00:01:40.020 --> 00:01:43.050
+This method is designed to handle volatility
+
+39
+00:01:43.050 --> 00:01:47.000
+in requirements, and high risk efforts.
+
+40
+00:01:47.000 --> 00:01:50.030
+Next is extreme programming, XP for short.
+
+41
+00:01:50.030 --> 00:01:53.080
+XP is an increasingly common methodology.
+
+42
+00:01:53.080 --> 00:01:56.020
+It's a very disciplined, agile approach,
+
+43
+00:01:56.020 --> 00:01:59.000
+and is focused on delivering software quickly
+
+44
+00:01:59.000 --> 00:02:00.070
+and continuously.
+
+45
+00:02:00.070 --> 00:02:04.000
+Where in Scrum, sprints are two to four weeks,
+
+46
+00:02:04.000 --> 00:02:07.010
+in XP, the cadence is one to three weeks
+
+47
+00:02:07.010 --> 00:02:09.020
+for the delivery cycle.
+
+48
+00:02:09.020 --> 00:02:13.040
+XP also demands high customer involvement.
+
+49
+00:02:13.040 --> 00:02:16.070
+XP focuses on continuous integration of code,
+
+50
+00:02:16.070 --> 00:02:18.080
+and ongoing testing.
+
+51
+00:02:18.080 --> 00:02:21.070
+Since the pace is so fast in XP,
+
+52
+00:02:21.070 --> 00:02:24.070
+it's not ideal for distributed teams.
+
+53
+00:02:24.070 --> 00:02:27.030
+It also requires a very high,
+
+54
+00:02:27.030 --> 00:02:29.050
+full-time level of involvement
+
+55
+00:02:29.050 --> 00:02:31.090
+from your business partners.
+
+56
+00:02:31.090 --> 00:02:36.050
+Finally, Kanban is a process-oriented Agile practice
+
+57
+00:02:36.050 --> 00:02:40.080
+that's based on Toyota's Just in Time production model.
+
+58
+00:02:40.080 --> 00:02:45.020
+The focus here is on eliminating bottlenecks in the system.
+
+59
+00:02:45.020 --> 00:02:48.010
+Kanban is focused on visualizing your workflow
+
+60
+00:02:48.010 --> 00:02:49.080
+as you do it today,
+
+61
+00:02:49.080 --> 00:02:53.000
+then limiting the amount of work in process,
+
+62
+00:02:53.000 --> 00:02:56.070
+and finally, on enhancing the flow of work
+
+63
+00:02:56.070 --> 00:02:58.080
+through the system.
+
+64
+00:02:58.080 --> 00:03:02.080
+Kanban is most often used in process-heavy environments,
+
+65
+00:03:02.080 --> 00:03:06.000
+especially in the areas of IT support,
+
+66
+00:03:06.000 --> 00:03:08.000
+where tickets or work requests
+
+67
+00:03:08.000 --> 00:03:10.010
+flow to a team on a daily,
+
+68
+00:03:10.010 --> 00:03:12.060
+or even hourly basis.
+
+69
+00:03:12.060 --> 00:03:15.080
+Generally, the work is flowed through a team
+
+70
+00:03:15.080 --> 00:03:18.020
+on a first-in first-out basis,
+
+71
+00:03:18.020 --> 00:03:21.090
+except where priority roles have been established.
+
+72
+00:03:21.090 --> 00:03:24.010
+As you set out to apply Agile methods
+
+73
+00:03:24.010 --> 00:03:25.070
+to your organization,
+
+74
+00:03:25.070 --> 00:03:28.080
+it pays to understand the available frameworks,
+
+75
+00:03:28.080 --> 00:03:32.000
+and align them to your needs.
+
